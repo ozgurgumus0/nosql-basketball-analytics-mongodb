@@ -1,0 +1,71 @@
+[
+  {
+    $match: {
+      $or: [
+        {
+          $and: [
+            {
+              passing_player_id: 3
+            },
+            {
+              receiving_player_id: 8
+            }
+          ]
+        },
+        {
+          $and: [
+            {
+              passing_player_id: 8
+            },
+            {
+              receiving_player_id: 3
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    $group: {
+      _id: {
+        passing_player_id: "$passing_player_id",
+        receiving_player_id:
+          "$receiving_player_id"
+      },
+      total_passes: {
+        $sum: 1
+      }
+    }
+  },
+  {
+    $lookup: {
+      from: "players",
+      localField: "_id.passing_player_id",
+      foreignField: "_id",
+      as: "passing_player"
+    }
+  },
+  {
+    $lookup: {
+      from: "players",
+      localField: "_id.receiving_player_id",
+      foreignField: "_id",
+      as: "receiving_player"
+    }
+  },
+  {
+    $unwind: "$passing_player"
+  },
+  {
+    $unwind: "$receiving_player"
+  },
+  {
+    $project: {
+      _id: 0,
+      passing_player_name: "$passing_player.name",
+      receiving_player_name:
+        "$receiving_player.name",
+      total_passes: 1
+    }
+  }
+]

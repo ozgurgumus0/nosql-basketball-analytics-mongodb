@@ -1,0 +1,138 @@
+[{
+  "_id": 1,
+  "name": "Jayson Tatum",
+  "team": "Boston Celtics",
+  "position": "Forward"
+},
+{
+  "_id": 2,
+  "name": "Jaylen Brown",
+  "team": "Boston Celtics",
+  "position": "Guard"
+},
+{
+  "_id": 3,
+  "name": "Derrick White",
+  "team": "Boston Celtics",
+  "position": "Guard"
+},
+{
+  "_id": 4,
+  "name": "Jrue Holiday",
+  "team": "Boston Celtics",
+  "position": "Guard"
+},
+{
+  "_id": 5,
+  "name": "Al Horford",
+  "team": "Boston Celtics",
+  "position": "Center"
+},
+{
+  "_id": 6,
+  "name": "Kristaps Porzingis",
+  "team": "Boston Celtics",
+  "position": "Forward"
+},
+{
+  "_id": 7,
+  "name": "Sam Hauser",
+  "team": "Boston Celtics",
+  "position": "Forward"
+},
+{
+  "_id": 8,
+  "name": "Payton Pritchard",
+  "team": "Boston Celtics",
+  "position": "Guard"
+},
+{
+  "_id": 9,
+  "name": "Luke Kornet",
+  "team": "Boston Celtics",
+  "position": "Center"
+},
+{
+  "_id": 10,
+  "name": "Svi Mykhailiuk",
+  "team": "Boston Celtics",
+  "position": "Guard"
+},
+{
+  "_id": 11,
+  "name": "Oshae Brissett",
+  "team": "Boston Celtics",
+  "position": "Forward"
+},
+{
+  "_id": 12,
+  "name": "Luka Doncic",
+  "team": "Dallas Mavericks",
+  "position": "Guard"
+},
+{
+  "_id": 13,
+  "name": "Kyrie Irving",
+  "team": "Dallas Mavericks",
+  "position": "Guard"
+},
+{
+  "_id": 14,
+  "name": "P.J. Washington Jr.",
+  "team": "Dallas Mavericks",
+  "position": "Forward"
+},
+{
+  "_id": 15,
+  "name": "Derrick Jones Jr.",
+  "team": "Dallas Mavericks",
+  "position": "Forward"
+},
+{
+  "_id": 16,
+  "name": "Daniel Gafford",
+  "team": "Dallas Mavericks",
+  "position": "Center"
+},
+{
+  "_id": 17,
+  "name": "Josh Green",
+  "team": "Dallas Mavericks",
+  "position": "Guard"
+},
+{
+  "_id": 18,
+  "name": "Maxi Kleber",
+  "team": "Dallas Mavericks",
+  "position": "Forward"
+},
+{
+  "_id": 19,
+  "name": "Dereck Lively II",
+  "team": "Dallas Mavericks",
+  "position": "Center"
+},
+{
+  "_id": 20,
+  "name": "Jaden Hardy",
+  "team": "Dallas Mavericks",
+  "position": "Guard"
+},
+{
+  "_id": 21,
+  "name": "Tim Hardaway Jr.",
+  "team": "Dallas Mavericks",
+  "position": "Forward"
+},
+{
+  "_id": 22,
+  "name": "Dante Exum",
+  "team": "Dallas Mavericks",
+  "position": "Guard"
+},
+{
+  "_id": 23,
+  "name": "Dwight Powell",
+  "team": "Dallas Mavericks",
+  "position": "Center"
+}]

@@ -1,0 +1,1491 @@
+[{
+  "_id": 1,
+  "team": "Boston Celtics",
+  "start_time": "12:00",
+  "end_time": "11:35",
+  "quarter": 1
+},
+{
+  "_id": 2,
+  "team": "Dallas Mavericks",
+  "start_time": "11:35",
+  "end_time": "11:16",
+  "quarter": 1
+},
+{
+  "_id": 3,
+  "team": "Dallas Mavericks",
+  "start_time": "11:16",
+  "end_time": "11:08",
+  "quarter": 1
+},
+{
+  "_id": 4,
+  "team": "Boston Celtics",
+  "start_time": "11:08",
+  "end_time": "10:45",
+  "quarter": 1
+},
+{
+  "_id": 5,
+  "team": "Dallas Mavericks",
+  "start_time": "10:45",
+  "end_time": "10:21",
+  "quarter": 1
+},
+{
+  "_id": 6,
+  "team": "Boston Celtics",
+  "start_time": "10:21",
+  "end_time": "10:18",
+  "quarter": 1
+},
+{
+  "_id": 7,
+  "team": "Boston Celtics",
+  "start_time": "10:18",
+  "end_time": "10:16",
+  "quarter": 1
+},
+{
+  "_id": 8,
+  "team": "Boston Celtics",
+  "start_time": "10:16",
+  "end_time": "10:03",
+  "quarter": 1
+},
+{
+  "_id": 9,
+  "team": "Boston Celtics",
+  "start_time": "10:03",
+  "end_time": "10:02",
+  "quarter": 1
+},
+{
+  "_id": 10,
+  "team": "Boston Celtics",
+  "start_time": "10:02",
+  "end_time": "9:58",
+  "quarter": 1
+},
+{
+  "_id": 11,
+  "team": "Boston Celtics",
+  "start_time": "9:58",
+  "end_time": "9:57",
+  "quarter": 1
+},
+{
+  "_id": 12,
+  "team": "Dallas Mavericks",
+  "start_time": "9:57",
+  "end_time": "9:49",
+  "quarter": 1
+},
+{
+  "_id": 13,
+  "team": "Dallas Mavericks",
+  "start_time": "9:49",
+  "end_time": "9:47",
+  "quarter": 1
+},
+{
+  "_id": 14,
+  "team": "Dallas Mavericks",
+  "start_time": "9:47",
+  "end_time": "9:46",
+  "quarter": 1
+},
+{
+  "_id": 15,
+  "team": "Boston Celtics",
+  "start_time": "9:46",
+  "end_time": "9:33",
+  "quarter": 1
+},
+{
+  "_id": 16,
+  "team": "Dallas Mavericks",
+  "start_time": "9:33",
+  "end_time": "9:32",
+  "quarter": 1
+},
+{
+  "_id": 17,
+  "team": "Dallas Mavericks",
+  "start_time": "9:32",
+  "end_time": "9:32",
+  "quarter": 1
+},
+{
+  "_id": 18,
+  "team": "Dallas Mavericks",
+  "start_time": "9:32",
+  "end_time": "9:19",
+  "quarter": 1
+},
+{
+  "_id": 19,
+  "team": "Boston Celtics",
+  "start_time": "9:19",
+  "end_time": "9:13",
+  "quarter": 1
+},
+{
+  "_id": 20,
+  "team": "Dallas Mavericks",
+  "start_time": "9:13",
+  "end_time": "9:04",
+  "quarter": 1
+},
+{
+  "_id": 21,
+  "team": "Boston Celtics",
+  "start_time": "9:04",
+  "end_time": "8:45",
+  "quarter": 1
+},
+{
+  "_id": 22,
+  "team": "Dallas Mavericks",
+  "start_time": "8:45",
+  "end_time": "8:40",
+  "quarter": 1
+},
+{
+  "_id": 23,
+  "team": "Boston Celtics",
+  "start_time": "8:40",
+  "end_time": "8:25",
+  "quarter": 1
+},
+{
+  "_id": 24,
+  "team": "Dallas Mavericks",
+  "start_time": "8:25",
+  "end_time": "8:08",
+  "quarter": 1
+},
+{
+  "_id": 25,
+  "team": "Boston Celtics",
+  "start_time": "8:08",
+  "end_time": "7:52",
+  "quarter": 1
+},
+{
+  "_id": 26,
+  "team": "Boston Celtics",
+  "start_time": "7:52",
+  "end_time": "7:40",
+  "quarter": 1
+},
+{
+  "_id": 27,
+  "team": "Dallas Mavericks",
+  "start_time": "7:40",
+  "end_time": "7:33",
+  "quarter": 1
+},
+{
+  "_id": 28,
+  "team": "Dallas Mavericks",
+  "start_time": "7:33",
+  "end_time": "7:09",
+  "quarter": 1
+},
+{
+  "_id": 29,
+  "team": "Dallas Mavericks",
+  "start_time": "7:09",
+  "end_time": "6:38",
+  "quarter": 1
+},
+{
+  "_id": 30,
+  "team": "Dallas Mavericks",
+  "start_time": "6:38",
+  "end_time": "5:41",
+  "quarter": 1
+},
+{
+  "_id": 31,
+  "team": "Boston Celtics",
+  "start_time": "5:41",
+  "end_time": "5:40",
+  "quarter": 1
+},
+{
+  "_id": 32,
+  "team": "Dallas Mavericks",
+  "start_time": "5:40",
+  "end_time": "5:24",
+  "quarter": 1
+},
+{
+  "_id": 33,
+  "team": "Boston Celtics",
+  "start_time": "5:24",
+  "end_time": "5:24",
+  "quarter": 1
+},
+{
+  "_id": 34,
+  "team": "Boston Celtics",
+  "start_time": "5:24",
+  "end_time": "0:00",
+  "quarter": 1
+},
+{
+  "_id": 35,
+  "team": "Boston Celtics",
+  "start_time": "12:00",
+  "end_time": "11:30",
+  "quarter": 2
+},
+{
+  "_id": 36,
+  "team": "Dallas Mavericks",
+  "start_time": "11:30",
+  "end_time": "11:20",
+  "quarter": 2
+},
+{
+  "_id": 37,
+  "team": "Boston Celtics",
+  "start_time": "11:20",
+  "end_time": "11:10",
+  "quarter": 2
+},
+{
+  "_id": 38,
+  "team": "Dallas Mavericks",
+  "start_time": "11:10",
+  "end_time": "10:50",
+  "quarter": 2
+},
+{
+  "_id": 39,
+  "team": "Boston Celtics",
+  "start_time": "10:50",
+  "end_time": "10:40",
+  "quarter": 2
+},
+{
+  "_id": 40,
+  "team": "Dallas Mavericks",
+  "start_time": "10:40",
+  "end_time": "10:20",
+  "quarter": 2
+},
+{
+  "_id": 41,
+  "team": "Boston Celtics",
+  "start_time": "10:20",
+  "end_time": "10:00",
+  "quarter": 2
+},
+{
+  "_id": 42,
+  "team": "Dallas Mavericks",
+  "start_time": "10:00",
+  "end_time": "9:40",
+  "quarter": 2
+},
+{
+  "_id": 43,
+  "team": "Boston Celtics",
+  "start_time": "9:40",
+  "end_time": "9:20",
+  "quarter": 2
+},
+{
+  "_id": 44,
+  "team": "Dallas Mavericks",
+  "start_time": "9:20",
+  "end_time": "9:00",
+  "quarter": 2
+},
+{
+  "_id": 45,
+  "team": "Boston Celtics",
+  "start_time": "9:00",
+  "end_time": "8:40",
+  "quarter": 2
+},
+{
+  "_id": 46,
+  "team": "Dallas Mavericks",
+  "start_time": "8:40",
+  "end_time": "8:20",
+  "quarter": 2
+},
+{
+  "_id": 47,
+  "team": "Boston Celtics",
+  "start_time": "8:20",
+  "end_time": "8:00",
+  "quarter": 2
+},
+{
+  "_id": 48,
+  "team": "Dallas Mavericks",
+  "start_time": "8:00",
+  "end_time": "7:40",
+  "quarter": 2
+},
+{
+  "_id": 49,
+  "team": "Boston Celtics",
+  "start_time": "7:40",
+  "end_time": "7:20",
+  "quarter": 2
+},
+{
+  "_id": 50,
+  "team": "Dallas Mavericks",
+  "start_time": "7:20",
+  "end_time": "7:00",
+  "quarter": 2
+},
+{
+  "_id": 51,
+  "team": "Boston Celtics",
+  "start_time": "7:00",
+  "end_time": "6:40",
+  "quarter": 2
+},
+{
+  "_id": 52,
+  "team": "Dallas Mavericks",
+  "start_time": "6:40",
+  "end_time": "6:20",
+  "quarter": 2
+},
+{
+  "_id": 53,
+  "team": "Boston Celtics",
+  "start_time": "6:20",
+  "end_time": "6:00",
+  "quarter": 2
+},
+{
+  "_id": 54,
+  "team": "Dallas Mavericks",
+  "start_time": "6:00",
+  "end_time": "5:40",
+  "quarter": 2
+},
+{
+  "_id": 55,
+  "team": "Boston Celtics",
+  "start_time": "5:40",
+  "end_time": "5:20",
+  "quarter": 2
+},
+{
+  "_id": 56,
+  "team": "Dallas Mavericks",
+  "start_time": "5:20",
+  "end_time": "5:00",
+  "quarter": 2
+},
+{
+  "_id": 57,
+  "team": "Boston Celtics",
+  "start_time": "5:00",
+  "end_time": "4:40",
+  "quarter": 2
+},
+{
+  "_id": 58,
+  "team": "Dallas Mavericks",
+  "start_time": "4:40",
+  "end_time": "4:20",
+  "quarter": 2
+},
+{
+  "_id": 59,
+  "team": "Boston Celtics",
+  "start_time": "4:20",
+  "end_time": "4:00",
+  "quarter": 2
+},
+{
+  "_id": 60,
+  "team": "Dallas Mavericks",
+  "start_time": "4:00",
+  "end_time": "3:40",
+  "quarter": 2
+},
+{
+  "_id": 61,
+  "team": "Boston Celtics",
+  "start_time": "3:40",
+  "end_time": "3:20",
+  "quarter": 2
+},
+{
+  "_id": 62,
+  "team": "Dallas Mavericks",
+  "start_time": "3:20",
+  "end_time": "3:00",
+  "quarter": 2
+},
+{
+  "_id": 63,
+  "team": "Boston Celtics",
+  "start_time": "3:00",
+  "end_time": "2:40",
+  "quarter": 2
+},
+{
+  "_id": 64,
+  "team": "Dallas Mavericks",
+  "start_time": "2:40",
+  "end_time": "2:20",
+  "quarter": 2
+},
+{
+  "_id": 65,
+  "team": "Boston Celtics",
+  "start_time": "2:20",
+  "end_time": "2:00",
+  "quarter": 2
+},
+{
+  "_id": 66,
+  "team": "Dallas Mavericks",
+  "start_time": "2:00",
+  "end_time": "1:40",
+  "quarter": 2
+},
+{
+  "_id": 67,
+  "team": "Boston Celtics",
+  "start_time": "1:40",
+  "end_time": "1:20",
+  "quarter": 2
+},
+{
+  "_id": 68,
+  "team": "Dallas Mavericks",
+  "start_time": "1:20",
+  "end_time": "1:00",
+  "quarter": 2
+},
+{
+  "_id": 69,
+  "team": "Boston Celtics",
+  "start_time": "1:00",
+  "end_time": "0:40",
+  "quarter": 2
+},
+{
+  "_id": 70,
+  "team": "Dallas Mavericks",
+  "start_time": "0:40",
+  "end_time": "0:20",
+  "quarter": 2
+},
+{
+  "_id": 71,
+  "team": "Boston Celtics",
+  "start_time": "0:20",
+  "end_time": "0:00",
+  "quarter": 2
+},
+{
+  "_id": 72,
+  "team": "Boston Celtics",
+  "start_time": "12:00",
+  "end_time": "11:40",
+  "quarter": 3
+},
+{
+  "_id": 73,
+  "team": "Dallas Mavericks",
+  "start_time": "11:40",
+  "end_time": "11:30",
+  "quarter": 3
+},
+{
+  "_id": 74,
+  "team": "Boston Celtics",
+  "start_time": "11:30",
+  "end_time": "11:20",
+  "quarter": 3
+},
+{
+  "_id": 75,
+  "team": "Dallas Mavericks",
+  "start_time": "11:20",
+  "end_time": "11:10",
+  "quarter": 3
+},
+{
+  "_id": 76,
+  "team": "Boston Celtics",
+  "start_time": "11:10",
+  "end_time": "11:00",
+  "quarter": 3
+},
+{
+  "_id": 77,
+  "team": "Dallas Mavericks",
+  "start_time": "11:00",
+  "end_time": "10:50",
+  "quarter": 3
+},
+{
+  "_id": 78,
+  "team": "Boston Celtics",
+  "start_time": "10:50",
+  "end_time": "10:40",
+  "quarter": 3
+},
+{
+  "_id": 79,
+  "team": "Dallas Mavericks",
+  "start_time": "10:40",
+  "end_time": "10:30",
+  "quarter": 3
+},
+{
+  "_id": 80,
+  "team": "Boston Celtics",
+  "start_time": "10:30",
+  "end_time": "10:20",
+  "quarter": 3
+},
+{
+  "_id": 81,
+  "team": "Dallas Mavericks",
+  "start_time": "10:20",
+  "end_time": "10:10",
+  "quarter": 3
+},
+{
+  "_id": 82,
+  "team": "Boston Celtics",
+  "start_time": "10:10",
+  "end_time": "10:00",
+  "quarter": 3
+},
+{
+  "_id": 83,
+  "team": "Dallas Mavericks",
+  "start_time": "10:00",
+  "end_time": "9:50",
+  "quarter": 3
+},
+{
+  "_id": 84,
+  "team": "Boston Celtics",
+  "start_time": "9:50",
+  "end_time": "9:40",
+  "quarter": 3
+},
+{
+  "_id": 85,
+  "team": "Dallas Mavericks",
+  "start_time": "9:40",
+  "end_time": "9:30",
+  "quarter": 3
+},
+{
+  "_id": 86,
+  "team": "Boston Celtics",
+  "start_time": "9:30",
+  "end_time": "9:20",
+  "quarter": 3
+},
+{
+  "_id": 87,
+  "team": "Dallas Mavericks",
+  "start_time": "9:20",
+  "end_time": "9:10",
+  "quarter": 3
+},
+{
+  "_id": 88,
+  "team": "Boston Celtics",
+  "start_time": "9:10",
+  "end_time": "9:00",
+  "quarter": 3
+},
+{
+  "_id": 89,
+  "team": "Dallas Mavericks",
+  "start_time": "9:00",
+  "end_time": "8:50",
+  "quarter": 3
+},
+{
+  "_id": 90,
+  "team": "Boston Celtics",
+  "start_time": "8:50",
+  "end_time": "8:40",
+  "quarter": 3
+},
+{
+  "_id": 91,
+  "team": "Dallas Mavericks",
+  "start_time": "8:40",
+  "end_time": "8:30",
+  "quarter": 3
+},
+{
+  "_id": 92,
+  "team": "Boston Celtics",
+  "start_time": "8:30",
+  "end_time": "8:20",
+  "quarter": 3
+},
+{
+  "_id": 93,
+  "team": "Dallas Mavericks",
+  "start_time": "8:20",
+  "end_time": "8:10",
+  "quarter": 3
+},
+{
+  "_id": 94,
+  "team": "Boston Celtics",
+  "start_time": "8:10",
+  "end_time": "8:00",
+  "quarter": 3
+},
+{
+  "_id": 95,
+  "team": "Dallas Mavericks",
+  "start_time": "8:00",
+  "end_time": "7:50",
+  "quarter": 3
+},
+{
+  "_id": 96,
+  "team": "Boston Celtics",
+  "start_time": "7:50",
+  "end_time": "7:40",
+  "quarter": 3
+},
+{
+  "_id": 97,
+  "team": "Dallas Mavericks",
+  "start_time": "7:40",
+  "end_time": "7:30",
+  "quarter": 3
+},
+{
+  "_id": 98,
+  "team": "Boston Celtics",
+  "start_time": "7:30",
+  "end_time": "7:20",
+  "quarter": 3
+},
+{
+  "_id": 99,
+  "team": "Dallas Mavericks",
+  "start_time": "7:20",
+  "end_time": "7:10",
+  "quarter": 3
+},
+{
+  "_id": 100,
+  "team": "Boston Celtics",
+  "start_time": "7:10",
+  "end_time": "7:00",
+  "quarter": 3
+},
+{
+  "_id": 101,
+  "team": "Dallas Mavericks",
+  "start_time": "7:00",
+  "end_time": "6:50",
+  "quarter": 3
+},
+{
+  "_id": 102,
+  "team": "Boston Celtics",
+  "start_time": "6:50",
+  "end_time": "6:40",
+  "quarter": 3
+},
+{
+  "_id": 103,
+  "team": "Dallas Mavericks",
+  "start_time": "6:40",
+  "end_time": "6:30",
+  "quarter": 3
+},
+{
+  "_id": 104,
+  "team": "Boston Celtics",
+  "start_time": "6:30",
+  "end_time": "6:20",
+  "quarter": 3
+},
+{
+  "_id": 105,
+  "team": "Dallas Mavericks",
+  "start_time": "6:20",
+  "end_time": "6:10",
+  "quarter": 3
+},
+{
+  "_id": 106,
+  "team": "Boston Celtics",
+  "start_time": "6:10",
+  "end_time": "6:00",
+  "quarter": 3
+},
+{
+  "_id": 107,
+  "team": "Dallas Mavericks",
+  "start_time": "6:00",
+  "end_time": "5:50",
+  "quarter": 3
+},
+{
+  "_id": 108,
+  "team": "Boston Celtics",
+  "start_time": "5:50",
+  "end_time": "5:40",
+  "quarter": 3
+},
+{
+  "_id": 109,
+  "team": "Dallas Mavericks",
+  "start_time": "5:40",
+  "end_time": "5:30",
+  "quarter": 3
+},
+{
+  "_id": 110,
+  "team": "Boston Celtics",
+  "start_time": "5:30",
+  "end_time": "5:20",
+  "quarter": 3
+},
+{
+  "_id": 111,
+  "team": "Dallas Mavericks",
+  "start_time": "5:20",
+  "end_time": "5:10",
+  "quarter": 3
+},
+{
+  "_id": 112,
+  "team": "Boston Celtics",
+  "start_time": "5:10",
+  "end_time": "5:00",
+  "quarter": 3
+},
+{
+  "_id": 113,
+  "team": "Dallas Mavericks",
+  "start_time": "5:00",
+  "end_time": "4:50",
+  "quarter": 3
+},
+{
+  "_id": 114,
+  "team": "Boston Celtics",
+  "start_time": "4:50",
+  "end_time": "4:40",
+  "quarter": 3
+},
+{
+  "_id": 115,
+  "team": "Dallas Mavericks",
+  "start_time": "4:40",
+  "end_time": "4:30",
+  "quarter": 3
+},
+{
+  "_id": 116,
+  "team": "Boston Celtics",
+  "start_time": "4:30",
+  "end_time": "4:20",
+  "quarter": 3
+},
+{
+  "_id": 117,
+  "team": "Dallas Mavericks",
+  "start_time": "4:20",
+  "end_time": "4:10",
+  "quarter": 3
+},
+{
+  "_id": 118,
+  "team": "Boston Celtics",
+  "start_time": "4:10",
+  "end_time": "4:00",
+  "quarter": 3
+},
+{
+  "_id": 119,
+  "team": "Dallas Mavericks",
+  "start_time": "4:00",
+  "end_time": "3:50",
+  "quarter": 3
+},
+{
+  "_id": 120,
+  "team": "Boston Celtics",
+  "start_time": "3:50",
+  "end_time": "3:40",
+  "quarter": 3
+},
+{
+  "_id": 121,
+  "team": "Dallas Mavericks",
+  "start_time": "3:40",
+  "end_time": "3:30",
+  "quarter": 3
+},
+{
+  "_id": 122,
+  "team": "Boston Celtics",
+  "start_time": "3:30",
+  "end_time": "3:20",
+  "quarter": 3
+},
+{
+  "_id": 123,
+  "team": "Dallas Mavericks",
+  "start_time": "3:20",
+  "end_time": "3:10",
+  "quarter": 3
+},
+{
+  "_id": 124,
+  "team": "Boston Celtics",
+  "start_time": "3:10",
+  "end_time": "3:00",
+  "quarter": 3
+},
+{
+  "_id": 125,
+  "team": "Dallas Mavericks",
+  "start_time": "3:00",
+  "end_time": "2:50",
+  "quarter": 3
+},
+{
+  "_id": 126,
+  "team": "Boston Celtics",
+  "start_time": "2:50",
+  "end_time": "2:40",
+  "quarter": 3
+},
+{
+  "_id": 127,
+  "team": "Dallas Mavericks",
+  "start_time": "2:40",
+  "end_time": "2:30",
+  "quarter": 3
+},
+{
+  "_id": 128,
+  "team": "Boston Celtics",
+  "start_time": "2:30",
+  "end_time": "2:20",
+  "quarter": 3
+},
+{
+  "_id": 129,
+  "team": "Dallas Mavericks",
+  "start_time": "2:20",
+  "end_time": "2:10",
+  "quarter": 3
+},
+{
+  "_id": 130,
+  "team": "Boston Celtics",
+  "start_time": "2:10",
+  "end_time": "2:00",
+  "quarter": 3
+},
+{
+  "_id": 131,
+  "team": "Dallas Mavericks",
+  "start_time": "2:00",
+  "end_time": "1:50",
+  "quarter": 3
+},
+{
+  "_id": 132,
+  "team": "Boston Celtics",
+  "start_time": "1:50",
+  "end_time": "1:40",
+  "quarter": 3
+},
+{
+  "_id": 133,
+  "team": "Dallas Mavericks",
+  "start_time": "1:40",
+  "end_time": "1:30",
+  "quarter": 3
+},
+{
+  "_id": 134,
+  "team": "Boston Celtics",
+  "start_time": "1:30",
+  "end_time": "1:20",
+  "quarter": 3
+},
+{
+  "_id": 135,
+  "team": "Dallas Mavericks",
+  "start_time": "1:20",
+  "end_time": "1:10",
+  "quarter": 3
+},
+{
+  "_id": 136,
+  "team": "Boston Celtics",
+  "start_time": "1:10",
+  "end_time": "1:00",
+  "quarter": 3
+},
+{
+  "_id": 137,
+  "team": "Dallas Mavericks",
+  "start_time": "1:00",
+  "end_time": "0:50",
+  "quarter": 3
+},
+{
+  "_id": 138,
+  "team": "Boston Celtics",
+  "start_time": "0:50",
+  "end_time": "0:40",
+  "quarter": 3
+},
+{
+  "_id": 139,
+  "team": "Dallas Mavericks",
+  "start_time": "0:40",
+  "end_time": "0:30",
+  "quarter": 3
+},
+{
+  "_id": 140,
+  "team": "Boston Celtics",
+  "start_time": "0:30",
+  "end_time": "0:20",
+  "quarter": 3
+},
+{
+  "_id": 141,
+  "team": "Dallas Mavericks",
+  "start_time": "0:20",
+  "end_time": "0:10",
+  "quarter": 3
+},
+{
+  "_id": 142,
+  "team": "Boston Celtics",
+  "start_time": "0:10",
+  "end_time": "0:00",
+  "quarter": 3
+},
+{
+  "_id": 143,
+  "team": "Boston Celtics",
+  "start_time": "12:00",
+  "end_time": "11:40",
+  "quarter": 4
+},
+{
+  "_id": 144,
+  "team": "Dallas Mavericks",
+  "start_time": "11:40",
+  "end_time": "11:30",
+  "quarter": 4
+},
+{
+  "_id": 145,
+  "team": "Boston Celtics",
+  "start_time": "11:30",
+  "end_time": "11:20",
+  "quarter": 4
+},
+{
+  "_id": 146,
+  "team": "Dallas Mavericks",
+  "start_time": "11:20",
+  "end_time": "11:10",
+  "quarter": 4
+},
+{
+  "_id": 147,
+  "team": "Boston Celtics",
+  "start_time": "11:10",
+  "end_time": "11:00",
+  "quarter": 4
+},
+{
+  "_id": 148,
+  "team": "Dallas Mavericks",
+  "start_time": "11:00",
+  "end_time": "10:50",
+  "quarter": 4
+},
+{
+  "_id": 149,
+  "team": "Boston Celtics",
+  "start_time": "10:50",
+  "end_time": "10:40",
+  "quarter": 4
+},
+{
+  "_id": 150,
+  "team": "Dallas Mavericks",
+  "start_time": "10:40",
+  "end_time": "10:30",
+  "quarter": 4
+},
+{
+  "_id": 151,
+  "team": "Boston Celtics",
+  "start_time": "10:30",
+  "end_time": "10:20",
+  "quarter": 4
+},
+{
+  "_id": 152,
+  "team": "Dallas Mavericks",
+  "start_time": "10:20",
+  "end_time": "10:10",
+  "quarter": 4
+},
+{
+  "_id": 153,
+  "team": "Boston Celtics",
+  "start_time": "10:10",
+  "end_time": "10:00",
+  "quarter": 4
+},
+{
+  "_id": 154,
+  "team": "Dallas Mavericks",
+  "start_time": "10:00",
+  "end_time": "9:50",
+  "quarter": 4
+},
+{
+  "_id": 155,
+  "team": "Boston Celtics",
+  "start_time": "9:50",
+  "end_time": "9:40",
+  "quarter": 4
+},
+{
+  "_id": 156,
+  "team": "Dallas Mavericks",
+  "start_time": "9:40",
+  "end_time": "9:30",
+  "quarter": 4
+},
+{
+  "_id": 157,
+  "team": "Boston Celtics",
+  "start_time": "9:30",
+  "end_time": "9:20",
+  "quarter": 4
+},
+{
+  "_id": 158,
+  "team": "Dallas Mavericks",
+  "start_time": "9:20",
+  "end_time": "9:10",
+  "quarter": 4
+},
+{
+  "_id": 159,
+  "team": "Boston Celtics",
+  "start_time": "9:10",
+  "end_time": "9:00",
+  "quarter": 4
+},
+{
+  "_id": 160,
+  "team": "Dallas Mavericks",
+  "start_time": "9:00",
+  "end_time": "8:50",
+  "quarter": 4
+},
+{
+  "_id": 161,
+  "team": "Boston Celtics",
+  "start_time": "8:50",
+  "end_time": "8:40",
+  "quarter": 4
+},
+{
+  "_id": 162,
+  "team": "Dallas Mavericks",
+  "start_time": "8:40",
+  "end_time": "8:30",
+  "quarter": 4
+},
+{
+  "_id": 163,
+  "team": "Boston Celtics",
+  "start_time": "8:30",
+  "end_time": "8:20",
+  "quarter": 4
+},
+{
+  "_id": 164,
+  "team": "Dallas Mavericks",
+  "start_time": "8:20",
+  "end_time": "8:10",
+  "quarter": 4
+},
+{
+  "_id": 165,
+  "team": "Boston Celtics",
+  "start_time": "8:10",
+  "end_time": "8:00",
+  "quarter": 4
+},
+{
+  "_id": 166,
+  "team": "Dallas Mavericks",
+  "start_time": "8:00",
+  "end_time": "7:50",
+  "quarter": 4
+},
+{
+  "_id": 167,
+  "team": "Boston Celtics",
+  "start_time": "7:50",
+  "end_time": "7:40",
+  "quarter": 4
+},
+{
+  "_id": 168,
+  "team": "Dallas Mavericks",
+  "start_time": "7:40",
+  "end_time": "7:30",
+  "quarter": 4
+},
+{
+  "_id": 169,
+  "team": "Boston Celtics",
+  "start_time": "7:30",
+  "end_time": "7:20",
+  "quarter": 4
+},
+{
+  "_id": 170,
+  "team": "Dallas Mavericks",
+  "start_time": "7:20",
+  "end_time": "7:10",
+  "quarter": 4
+},
+{
+  "_id": 171,
+  "team": "Boston Celtics",
+  "start_time": "7:10",
+  "end_time": "7:00",
+  "quarter": 4
+},
+{
+  "_id": 172,
+  "team": "Dallas Mavericks",
+  "start_time": "7:00",
+  "end_time": "6:50",
+  "quarter": 4
+},
+{
+  "_id": 173,
+  "team": "Boston Celtics",
+  "start_time": "6:50",
+  "end_time": "6:40",
+  "quarter": 4
+},
+{
+  "_id": 174,
+  "team": "Dallas Mavericks",
+  "start_time": "6:40",
+  "end_time": "6:30",
+  "quarter": 4
+},
+{
+  "_id": 175,
+  "team": "Boston Celtics",
+  "start_time": "6:30",
+  "end_time": "6:20",
+  "quarter": 4
+},
+{
+  "_id": 176,
+  "team": "Dallas Mavericks",
+  "start_time": "6:20",
+  "end_time": "6:10",
+  "quarter": 4
+},
+{
+  "_id": 177,
+  "team": "Boston Celtics",
+  "start_time": "6:10",
+  "end_time": "6:00",
+  "quarter": 4
+},
+{
+  "_id": 178,
+  "team": "Dallas Mavericks",
+  "start_time": "6:00",
+  "end_time": "5:50",
+  "quarter": 4
+},
+{
+  "_id": 179,
+  "team": "Boston Celtics",
+  "start_time": "5:50",
+  "end_time": "5:40",
+  "quarter": 4
+},
+{
+  "_id": 180,
+  "team": "Dallas Mavericks",
+  "start_time": "5:40",
+  "end_time": "5:30",
+  "quarter": 4
+},
+{
+  "_id": 181,
+  "team": "Boston Celtics",
+  "start_time": "5:30",
+  "end_time": "5:20",
+  "quarter": 4
+},
+{
+  "_id": 182,
+  "team": "Dallas Mavericks",
+  "start_time": "5:20",
+  "end_time": "5:10",
+  "quarter": 4
+},
+{
+  "_id": 183,
+  "team": "Boston Celtics",
+  "start_time": "5:10",
+  "end_time": "5:00",
+  "quarter": 4
+},
+{
+  "_id": 184,
+  "team": "Dallas Mavericks",
+  "start_time": "5:00",
+  "end_time": "4:50",
+  "quarter": 4
+},
+{
+  "_id": 185,
+  "team": "Boston Celtics",
+  "start_time": "4:50",
+  "end_time": "4:40",
+  "quarter": 4
+},
+{
+  "_id": 186,
+  "team": "Dallas Mavericks",
+  "start_time": "4:40",
+  "end_time": "4:30",
+  "quarter": 4
+},
+{
+  "_id": 187,
+  "team": "Boston Celtics",
+  "start_time": "4:30",
+  "end_time": "4:20",
+  "quarter": 4
+},
+{
+  "_id": 188,
+  "team": "Dallas Mavericks",
+  "start_time": "4:20",
+  "end_time": "4:10",
+  "quarter": 4
+},
+{
+  "_id": 189,
+  "team": "Boston Celtics",
+  "start_time": "4:10",
+  "end_time": "4:00",
+  "quarter": 4
+},
+{
+  "_id": 190,
+  "team": "Dallas Mavericks",
+  "start_time": "4:00",
+  "end_time": "3:50",
+  "quarter": 4
+},
+{
+  "_id": 191,
+  "team": "Boston Celtics",
+  "start_time": "3:50",
+  "end_time": "3:40",
+  "quarter": 4
+},
+{
+  "_id": 192,
+  "team": "Dallas Mavericks",
+  "start_time": "3:40",
+  "end_time": "3:30",
+  "quarter": 4
+},
+{
+  "_id": 193,
+  "team": "Boston Celtics",
+  "start_time": "3:30",
+  "end_time": "3:20",
+  "quarter": 4
+},
+{
+  "_id": 194,
+  "team": "Dallas Mavericks",
+  "start_time": "3:20",
+  "end_time": "3:10",
+  "quarter": 4
+},
+{
+  "_id": 195,
+  "team": "Boston Celtics",
+  "start_time": "3:10",
+  "end_time": "3:00",
+  "quarter": 4
+},
+{
+  "_id": 196,
+  "team": "Dallas Mavericks",
+  "start_time": "3:00",
+  "end_time": "2:50",
+  "quarter": 4
+},
+{
+  "_id": 197,
+  "team": "Boston Celtics",
+  "start_time": "2:50",
+  "end_time": "2:40",
+  "quarter": 4
+},
+{
+  "_id": 198,
+  "team": "Dallas Mavericks",
+  "start_time": "2:40",
+  "end_time": "2:30",
+  "quarter": 4
+},
+{
+  "_id": 199,
+  "team": "Boston Celtics",
+  "start_time": "2:30",
+  "end_time": "2:20",
+  "quarter": 4
+},
+{
+  "_id": 200,
+  "team": "Dallas Mavericks",
+  "start_time": "2:20",
+  "end_time": "2:10",
+  "quarter": 4
+},
+{
+  "_id": 201,
+  "team": "Boston Celtics",
+  "start_time": "2:10",
+  "end_time": "2:00",
+  "quarter": 4
+},
+{
+  "_id": 202,
+  "team": "Dallas Mavericks",
+  "start_time": "2:00",
+  "end_time": "1:50",
+  "quarter": 4
+},
+{
+  "_id": 203,
+  "team": "Boston Celtics",
+  "start_time": "1:50",
+  "end_time": "1:40",
+  "quarter": 4
+},
+{
+  "_id": 204,
+  "team": "Dallas Mavericks",
+  "start_time": "1:40",
+  "end_time": "1:30",
+  "quarter": 4
+},
+{
+  "_id": 205,
+  "team": "Boston Celtics",
+  "start_time": "1:30",
+  "end_time": "1:20",
+  "quarter": 4
+},
+{
+  "_id": 206,
+  "team": "Dallas Mavericks",
+  "start_time": "1:20",
+  "end_time": "1:10",
+  "quarter": 4
+},
+{
+  "_id": 207,
+  "team": "Boston Celtics",
+  "start_time": "1:10",
+  "end_time": "1:00",
+  "quarter": 4
+},
+{
+  "_id": 208,
+  "team": "Dallas Mavericks",
+  "start_time": "1:00",
+  "end_time": "0:50",
+  "quarter": 4
+},
+{
+  "_id": 209,
+  "team": "Boston Celtics",
+  "start_time": "0:50",
+  "end_time": "0:40",
+  "quarter": 4
+},
+{
+  "_id": 210,
+  "team": "Dallas Mavericks",
+  "start_time": "0:40",
+  "end_time": "0:30",
+  "quarter": 4
+},
+{
+  "_id": 211,
+  "team": "Boston Celtics",
+  "start_time": "0:30",
+  "end_time": "0:20",
+  "quarter": 4
+},
+{
+  "_id": 212,
+  "team": "Dallas Mavericks",
+  "start_time": "0:20",
+  "end_time": "0:10",
+  "quarter": 4
+},
+{
+  "_id": 213,
+  "team": "Boston Celtics",
+  "start_time": "0:10",
+  "end_time": "0:00",
+  "quarter": 4
+}]

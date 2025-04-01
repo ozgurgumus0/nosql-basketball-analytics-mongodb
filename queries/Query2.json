@@ -1,0 +1,30 @@
+[
+  {
+    $match: {
+      game_id: 1
+    }
+  },
+  {
+    $lookup: {
+      from: "players",
+      localField: "_id",
+      foreignField: "_id",
+      as: "player_info"
+    }
+  },
+  {
+    $unwind: "$player_info"
+  },
+  {
+    $project: {
+      player_id: 1,
+      personal_fouls: 1,
+      player_name: "$player_info.name"
+    }
+  },
+  {
+    $sort: {
+      personal_fouls: -1
+    }
+  }
+]

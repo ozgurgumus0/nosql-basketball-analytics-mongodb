@@ -1,0 +1,3720 @@
+[{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1da4"
+  },
+  "pass_id": 1,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:11",
+  "quarter": 1,
+  "passing_player_id": 3,
+  "receiving_player_id": 2
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1da5"
+  },
+  "pass_id": 2,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:42",
+  "quarter": 1,
+  "passing_player_id": 2,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1da6"
+  },
+  "pass_id": 3,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:30",
+  "quarter": 1,
+  "passing_player_id": 4,
+  "receiving_player_id": 2
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1da7"
+  },
+  "pass_id": 4,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:50",
+  "quarter": 1,
+  "passing_player_id": 6,
+  "receiving_player_id": 10
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1da8"
+  },
+  "pass_id": 5,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:30",
+  "quarter": 1,
+  "passing_player_id": 8,
+  "receiving_player_id": 2
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1da9"
+  },
+  "pass_id": 6,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:10",
+  "quarter": 1,
+  "passing_player_id": 10,
+  "receiving_player_id": 5
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1daa"
+  },
+  "pass_id": 7,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:50",
+  "quarter": 1,
+  "passing_player_id": 11,
+  "receiving_player_id": 3
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dab"
+  },
+  "pass_id": 8,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:30",
+  "quarter": 1,
+  "passing_player_id": 5,
+  "receiving_player_id": 8
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dac"
+  },
+  "pass_id": 9,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:10",
+  "quarter": 1,
+  "passing_player_id": 9,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dad"
+  },
+  "pass_id": 10,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:50",
+  "quarter": 1,
+  "passing_player_id": 4,
+  "receiving_player_id": 11
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dae"
+  },
+  "pass_id": 11,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:30",
+  "quarter": 1,
+  "passing_player_id": 3,
+  "receiving_player_id": 7
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1daf"
+  },
+  "pass_id": 12,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:10",
+  "quarter": 1,
+  "passing_player_id": 2,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1db0"
+  },
+  "pass_id": 13,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:50",
+  "quarter": 1,
+  "passing_player_id": 6,
+  "receiving_player_id": 10
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1db1"
+  },
+  "pass_id": 14,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:30",
+  "quarter": 1,
+  "passing_player_id": 8,
+  "receiving_player_id": 3
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1db2"
+  },
+  "pass_id": 15,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:10",
+  "quarter": 1,
+  "passing_player_id": 5,
+  "receiving_player_id": 2
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1db3"
+  },
+  "pass_id": 16,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:50",
+  "quarter": 1,
+  "passing_player_id": 11,
+  "receiving_player_id": 7
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1db4"
+  },
+  "pass_id": 17,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:30",
+  "quarter": 1,
+  "passing_player_id": 3,
+  "receiving_player_id": 8
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1db5"
+  },
+  "pass_id": 18,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:10",
+  "quarter": 1,
+  "passing_player_id": 9,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1db6"
+  },
+  "pass_id": 19,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:50",
+  "quarter": 2,
+  "passing_player_id": 2,
+  "receiving_player_id": 3
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1db7"
+  },
+  "pass_id": 20,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:30",
+  "quarter": 2,
+  "passing_player_id": 8,
+  "receiving_player_id": 7
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1db8"
+  },
+  "pass_id": 21,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:10",
+  "quarter": 2,
+  "passing_player_id": 10,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1db9"
+  },
+  "pass_id": 22,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:50",
+  "quarter": 2,
+  "passing_player_id": 3,
+  "receiving_player_id": 2
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dba"
+  },
+  "pass_id": 23,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:30",
+  "quarter": 2,
+  "passing_player_id": 6,
+  "receiving_player_id": 11
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dbb"
+  },
+  "pass_id": 24,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:10",
+  "quarter": 2,
+  "passing_player_id": 3,
+  "receiving_player_id": 2
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dbc"
+  },
+  "pass_id": 25,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:50",
+  "quarter": 2,
+  "passing_player_id": 4,
+  "receiving_player_id": 10
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dbd"
+  },
+  "pass_id": 26,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:30",
+  "quarter": 2,
+  "passing_player_id": 2,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dbe"
+  },
+  "pass_id": 27,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:10",
+  "quarter": 2,
+  "passing_player_id": 6,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dbf"
+  },
+  "pass_id": 28,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:50",
+  "quarter": 2,
+  "passing_player_id": 7,
+  "receiving_player_id": 3
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dc0"
+  },
+  "pass_id": 29,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:30",
+  "quarter": 2,
+  "passing_player_id": 8,
+  "receiving_player_id": 2
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dc1"
+  },
+  "pass_id": 30,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:10",
+  "quarter": 2,
+  "passing_player_id": 10,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dc2"
+  },
+  "pass_id": 31,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:50",
+  "quarter": 2,
+  "passing_player_id": 3,
+  "receiving_player_id": 11
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dc3"
+  },
+  "pass_id": 32,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:30",
+  "quarter": 2,
+  "passing_player_id": 4,
+  "receiving_player_id": 5
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dc4"
+  },
+  "pass_id": 33,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:10",
+  "quarter": 2,
+  "passing_player_id": 2,
+  "receiving_player_id": 7
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dc5"
+  },
+  "pass_id": 34,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:50",
+  "quarter": 2,
+  "passing_player_id": 6,
+  "receiving_player_id": 10
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dc6"
+  },
+  "pass_id": 35,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:30",
+  "quarter": 2,
+  "passing_player_id": 8,
+  "receiving_player_id": 2
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dc7"
+  },
+  "pass_id": 36,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:10",
+  "quarter": 2,
+  "passing_player_id": 10,
+  "receiving_player_id": 5
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dc8"
+  },
+  "pass_id": 37,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:50",
+  "quarter": 2,
+  "passing_player_id": 11,
+  "receiving_player_id": 3
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dc9"
+  },
+  "pass_id": 38,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:30",
+  "quarter": 2,
+  "passing_player_id": 5,
+  "receiving_player_id": 8
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dca"
+  },
+  "pass_id": 39,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:10",
+  "quarter": 2,
+  "passing_player_id": 9,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dcb"
+  },
+  "pass_id": 40,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:50",
+  "quarter": 2,
+  "passing_player_id": 4,
+  "receiving_player_id": 11
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dcc"
+  },
+  "pass_id": 41,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:30",
+  "quarter": 2,
+  "passing_player_id": 3,
+  "receiving_player_id": 7
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dcd"
+  },
+  "pass_id": 42,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:10",
+  "quarter": 2,
+  "passing_player_id": 2,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dce"
+  },
+  "pass_id": 43,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:50",
+  "quarter": 2,
+  "passing_player_id": 6,
+  "receiving_player_id": 10
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dcf"
+  },
+  "pass_id": 44,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:30",
+  "quarter": 2,
+  "passing_player_id": 8,
+  "receiving_player_id": 3
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dd0"
+  },
+  "pass_id": 45,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:10",
+  "quarter": 2,
+  "passing_player_id": 5,
+  "receiving_player_id": 2
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dd1"
+  },
+  "pass_id": 46,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:50",
+  "quarter": 2,
+  "passing_player_id": 11,
+  "receiving_player_id": 7
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dd2"
+  },
+  "pass_id": 47,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:30",
+  "quarter": 2,
+  "passing_player_id": 2,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dd3"
+  },
+  "pass_id": 48,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:10",
+  "quarter": 2,
+  "passing_player_id": 3,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dd4"
+  },
+  "pass_id": 49,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:50",
+  "quarter": 3,
+  "passing_player_id": 4,
+  "receiving_player_id": 11
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dd5"
+  },
+  "pass_id": 50,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:30",
+  "quarter": 3,
+  "passing_player_id": 8,
+  "receiving_player_id": 5
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dd6"
+  },
+  "pass_id": 51,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:10",
+  "quarter": 3,
+  "passing_player_id": 2,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dd7"
+  },
+  "pass_id": 52,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:50",
+  "quarter": 3,
+  "passing_player_id": 3,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dd8"
+  },
+  "pass_id": 53,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:30",
+  "quarter": 3,
+  "passing_player_id": 4,
+  "receiving_player_id": 11
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dd9"
+  },
+  "pass_id": 54,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:10",
+  "quarter": 3,
+  "passing_player_id": 8,
+  "receiving_player_id": 5
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dda"
+  },
+  "pass_id": 55,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:50",
+  "quarter": 3,
+  "passing_player_id": 10,
+  "receiving_player_id": 3
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ddb"
+  },
+  "pass_id": 56,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:30",
+  "quarter": 3,
+  "passing_player_id": 2,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ddc"
+  },
+  "pass_id": 57,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:10",
+  "quarter": 3,
+  "passing_player_id": 3,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ddd"
+  },
+  "pass_id": 58,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:50",
+  "quarter": 3,
+  "passing_player_id": 6,
+  "receiving_player_id": 10
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dde"
+  },
+  "pass_id": 59,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:30",
+  "quarter": 3,
+  "passing_player_id": 4,
+  "receiving_player_id": 11
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ddf"
+  },
+  "pass_id": 60,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:10",
+  "quarter": 3,
+  "passing_player_id": 8,
+  "receiving_player_id": 5
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1de0"
+  },
+  "pass_id": 61,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:50",
+  "quarter": 3,
+  "passing_player_id": 2,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1de1"
+  },
+  "pass_id": 62,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:30",
+  "quarter": 3,
+  "passing_player_id": 3,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1de2"
+  },
+  "pass_id": 63,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:10",
+  "quarter": 3,
+  "passing_player_id": 6,
+  "receiving_player_id": 10
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1de3"
+  },
+  "pass_id": 64,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:50",
+  "quarter": 3,
+  "passing_player_id": 4,
+  "receiving_player_id": 11
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1de4"
+  },
+  "pass_id": 65,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:30",
+  "quarter": 3,
+  "passing_player_id": 8,
+  "receiving_player_id": 5
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1de5"
+  },
+  "pass_id": 66,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:10",
+  "quarter": 3,
+  "passing_player_id": 10,
+  "receiving_player_id": 3
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1de6"
+  },
+  "pass_id": 67,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:50",
+  "quarter": 3,
+  "passing_player_id": 2,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1de7"
+  },
+  "pass_id": 68,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:30",
+  "quarter": 3,
+  "passing_player_id": 3,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1de8"
+  },
+  "pass_id": 69,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:10",
+  "quarter": 3,
+  "passing_player_id": 6,
+  "receiving_player_id": 10
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1de9"
+  },
+  "pass_id": 70,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:50",
+  "quarter": 3,
+  "passing_player_id": 4,
+  "receiving_player_id": 11
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dea"
+  },
+  "pass_id": 71,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:30",
+  "quarter": 3,
+  "passing_player_id": 8,
+  "receiving_player_id": 5
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1deb"
+  },
+  "pass_id": 72,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:10",
+  "quarter": 3,
+  "passing_player_id": 2,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dec"
+  },
+  "pass_id": 73,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:50",
+  "quarter": 3,
+  "passing_player_id": 3,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ded"
+  },
+  "pass_id": 74,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:30",
+  "quarter": 3,
+  "passing_player_id": 2,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dee"
+  },
+  "pass_id": 75,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:10",
+  "quarter": 3,
+  "passing_player_id": 4,
+  "receiving_player_id": 11
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1def"
+  },
+  "pass_id": 76,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:50",
+  "quarter": 3,
+  "passing_player_id": 8,
+  "receiving_player_id": 5
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1df0"
+  },
+  "pass_id": 77,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:30",
+  "quarter": 3,
+  "passing_player_id": 10,
+  "receiving_player_id": 3
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1df1"
+  },
+  "pass_id": 78,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:10",
+  "quarter": 3,
+  "passing_player_id": 6,
+  "receiving_player_id": 10
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1df2"
+  },
+  "pass_id": 79,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:50",
+  "quarter": 4,
+  "passing_player_id": 3,
+  "receiving_player_id": 2
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1df3"
+  },
+  "pass_id": 80,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:30",
+  "quarter": 4,
+  "passing_player_id": 4,
+  "receiving_player_id": 10
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1df4"
+  },
+  "pass_id": 81,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:10",
+  "quarter": 4,
+  "passing_player_id": 8,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1df5"
+  },
+  "pass_id": 82,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:50",
+  "quarter": 4,
+  "passing_player_id": 10,
+  "receiving_player_id": 3
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1df6"
+  },
+  "pass_id": 83,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:30",
+  "quarter": 4,
+  "passing_player_id": 2,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1df7"
+  },
+  "pass_id": 84,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:10",
+  "quarter": 4,
+  "passing_player_id": 3,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1df8"
+  },
+  "pass_id": 85,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:50",
+  "quarter": 4,
+  "passing_player_id": 4,
+  "receiving_player_id": 11
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1df9"
+  },
+  "pass_id": 86,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:30",
+  "quarter": 4,
+  "passing_player_id": 8,
+  "receiving_player_id": 5
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dfa"
+  },
+  "pass_id": 87,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:10",
+  "quarter": 4,
+  "passing_player_id": 10,
+  "receiving_player_id": 3
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dfb"
+  },
+  "pass_id": 88,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:50",
+  "quarter": 4,
+  "passing_player_id": 6,
+  "receiving_player_id": 10
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dfc"
+  },
+  "pass_id": 89,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:30",
+  "quarter": 4,
+  "passing_player_id": 2,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1dfd"
+  },
+  "pass_id": 90,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:10",
+  "quarter": 4,
+  "passing_player_id": 3,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e0b"
+  },
+  "pass_id": 117,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:10",
+  "quarter": 1,
+  "passing_player_id": 13,
+  "receiving_player_id": 17
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e0c"
+  },
+  "pass_id": 118,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:50",
+  "quarter": 1,
+  "passing_player_id": 12,
+  "receiving_player_id": 20
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e0d"
+  },
+  "pass_id": 119,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:30",
+  "quarter": 1,
+  "passing_player_id": 14,
+  "receiving_player_id": 21
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e0e"
+  },
+  "pass_id": 120,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:10",
+  "quarter": 1,
+  "passing_player_id": 12,
+  "receiving_player_id": 16
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e0f"
+  },
+  "pass_id": 121,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:50",
+  "quarter": 1,
+  "passing_player_id": 13,
+  "receiving_player_id": 22
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e10"
+  },
+  "pass_id": 122,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:30",
+  "quarter": 1,
+  "passing_player_id": 12,
+  "receiving_player_id": 23
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e11"
+  },
+  "pass_id": 123,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:10",
+  "quarter": 1,
+  "passing_player_id": 13,
+  "receiving_player_id": 17
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e12"
+  },
+  "pass_id": 124,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:50",
+  "quarter": 1,
+  "passing_player_id": 14,
+  "receiving_player_id": 19
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e13"
+  },
+  "pass_id": 125,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:30",
+  "quarter": 1,
+  "passing_player_id": 12,
+  "receiving_player_id": 15
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e14"
+  },
+  "pass_id": 126,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:10",
+  "quarter": 1,
+  "passing_player_id": 13,
+  "receiving_player_id": 18
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e15"
+  },
+  "pass_id": 127,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:50",
+  "quarter": 1,
+  "passing_player_id": 12,
+  "receiving_player_id": 17
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e16"
+  },
+  "pass_id": 128,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:30",
+  "quarter": 1,
+  "passing_player_id": 13,
+  "receiving_player_id": 20
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e17"
+  },
+  "pass_id": 129,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:10",
+  "quarter": 1,
+  "passing_player_id": 12,
+  "receiving_player_id": 16
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e18"
+  },
+  "pass_id": 130,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:50",
+  "quarter": 1,
+  "passing_player_id": 13,
+  "receiving_player_id": 19
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e19"
+  },
+  "pass_id": 131,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:30",
+  "quarter": 1,
+  "passing_player_id": 12,
+  "receiving_player_id": 22
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e1a"
+  },
+  "pass_id": 132,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:10",
+  "quarter": 1,
+  "passing_player_id": 13,
+  "receiving_player_id": 14
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e1b"
+  },
+  "pass_id": 133,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:50",
+  "quarter": 1,
+  "passing_player_id": 12,
+  "receiving_player_id": 23
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e1c"
+  },
+  "pass_id": 134,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:30",
+  "quarter": 1,
+  "passing_player_id": 13,
+  "receiving_player_id": 17
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e1d"
+  },
+  "pass_id": 135,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:10",
+  "quarter": 1,
+  "passing_player_id": 12,
+  "receiving_player_id": 16
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e1e"
+  },
+  "pass_id": 136,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:50",
+  "quarter": 1,
+  "passing_player_id": 13,
+  "receiving_player_id": 20
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e1f"
+  },
+  "pass_id": 137,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:30",
+  "quarter": 1,
+  "passing_player_id": 12,
+  "receiving_player_id": 21
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e20"
+  },
+  "pass_id": 138,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:10",
+  "quarter": 1,
+  "passing_player_id": 13,
+  "receiving_player_id": 17
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e21"
+  },
+  "pass_id": 139,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "11:50",
+  "quarter": 2,
+  "passing_player_id": 4,
+  "receiving_player_id": 2
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e22"
+  },
+  "pass_id": 140,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "11:30",
+  "quarter": 2,
+  "passing_player_id": 2,
+  "receiving_player_id": 3
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e23"
+  },
+  "pass_id": 141,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "11:10",
+  "quarter": 2,
+  "passing_player_id": 3,
+  "receiving_player_id": 5
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e24"
+  },
+  "pass_id": 142,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "10:50",
+  "quarter": 2,
+  "passing_player_id": 4,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e25"
+  },
+  "pass_id": 143,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "10:30",
+  "quarter": 2,
+  "passing_player_id": 2,
+  "receiving_player_id": 7
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e26"
+  },
+  "pass_id": 144,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "10:10",
+  "quarter": 2,
+  "passing_player_id": 4,
+  "receiving_player_id": 8
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e27"
+  },
+  "pass_id": 145,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:50",
+  "quarter": 2,
+  "passing_player_id": 3,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e28"
+  },
+  "pass_id": 146,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:30",
+  "quarter": 2,
+  "passing_player_id": 4,
+  "receiving_player_id": 10
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e29"
+  },
+  "pass_id": 147,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:10",
+  "quarter": 2,
+  "passing_player_id": 2,
+  "receiving_player_id": 11
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e2a"
+  },
+  "pass_id": 148,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:50",
+  "quarter": 2,
+  "passing_player_id": 12,
+  "receiving_player_id": 13
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e2b"
+  },
+  "pass_id": 149,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:30",
+  "quarter": 2,
+  "passing_player_id": 13,
+  "receiving_player_id": 14
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e2c"
+  },
+  "pass_id": 150,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:10",
+  "quarter": 2,
+  "passing_player_id": 12,
+  "receiving_player_id": 15
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e2d"
+  },
+  "pass_id": 151,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:50",
+  "quarter": 2,
+  "passing_player_id": 13,
+  "receiving_player_id": 16
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e2e"
+  },
+  "pass_id": 152,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:30",
+  "quarter": 2,
+  "passing_player_id": 12,
+  "receiving_player_id": 17
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e2f"
+  },
+  "pass_id": 153,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:10",
+  "quarter": 2,
+  "passing_player_id": 13,
+  "receiving_player_id": 18
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e30"
+  },
+  "pass_id": 154,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:50",
+  "quarter": 2,
+  "passing_player_id": 12,
+  "receiving_player_id": 19
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e31"
+  },
+  "pass_id": 155,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:30",
+  "quarter": 2,
+  "passing_player_id": 13,
+  "receiving_player_id": 20
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e32"
+  },
+  "pass_id": 156,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:10",
+  "quarter": 2,
+  "passing_player_id": 12,
+  "receiving_player_id": 21
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e33"
+  },
+  "pass_id": 157,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:50",
+  "quarter": 2,
+  "passing_player_id": 13,
+  "receiving_player_id": 22
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e34"
+  },
+  "pass_id": 158,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:30",
+  "quarter": 2,
+  "passing_player_id": 12,
+  "receiving_player_id": 23
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e35"
+  },
+  "pass_id": 159,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:10",
+  "quarter": 2,
+  "passing_player_id": 13,
+  "receiving_player_id": 14
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e36"
+  },
+  "pass_id": 160,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:50",
+  "quarter": 2,
+  "passing_player_id": 12,
+  "receiving_player_id": 15
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e38"
+  },
+  "pass_id": 161,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:30",
+  "quarter": 2,
+  "passing_player_id": 3,
+  "receiving_player_id": 5
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e39"
+  },
+  "pass_id": 162,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:10",
+  "quarter": 2,
+  "passing_player_id": 4,
+  "receiving_player_id": 7
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e3a"
+  },
+  "pass_id": 163,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:50",
+  "quarter": 2,
+  "passing_player_id": 2,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e3b"
+  },
+  "pass_id": 164,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:30",
+  "quarter": 2,
+  "passing_player_id": 3,
+  "receiving_player_id": 11
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e3c"
+  },
+  "pass_id": 165,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:10",
+  "quarter": 2,
+  "passing_player_id": 4,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e3d"
+  },
+  "pass_id": 166,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:50",
+  "quarter": 2,
+  "passing_player_id": 2,
+  "receiving_player_id": 8
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e3e"
+  },
+  "pass_id": 167,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:30",
+  "quarter": 2,
+  "passing_player_id": 3,
+  "receiving_player_id": 10
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e3f"
+  },
+  "pass_id": 168,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:10",
+  "quarter": 2,
+  "passing_player_id": 4,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e40"
+  },
+  "pass_id": 169,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:50",
+  "quarter": 2,
+  "passing_player_id": 2,
+  "receiving_player_id": 7
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e41"
+  },
+  "pass_id": 170,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:30",
+  "quarter": 2,
+  "passing_player_id": 3,
+  "receiving_player_id": 5
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e42"
+  },
+  "pass_id": 171,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:10",
+  "quarter": 2,
+  "passing_player_id": 4,
+  "receiving_player_id": 11
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e43"
+  },
+  "pass_id": 172,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:50",
+  "quarter": 2,
+  "passing_player_id": 12,
+  "receiving_player_id": 15
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e44"
+  },
+  "pass_id": 173,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:30",
+  "quarter": 2,
+  "passing_player_id": 13,
+  "receiving_player_id": 14
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e45"
+  },
+  "pass_id": 174,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:10",
+  "quarter": 2,
+  "passing_player_id": 12,
+  "receiving_player_id": 18
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e46"
+  },
+  "pass_id": 175,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "11:50",
+  "quarter": 3,
+  "passing_player_id": 13,
+  "receiving_player_id": 16
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e47"
+  },
+  "pass_id": 176,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "11:30",
+  "quarter": 3,
+  "passing_player_id": 12,
+  "receiving_player_id": 17
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e48"
+  },
+  "pass_id": 177,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "11:10",
+  "quarter": 3,
+  "passing_player_id": 13,
+  "receiving_player_id": 19
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e49"
+  },
+  "pass_id": 178,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "10:50",
+  "quarter": 3,
+  "passing_player_id": 12,
+  "receiving_player_id": 20
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e4a"
+  },
+  "pass_id": 179,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "10:30",
+  "quarter": 3,
+  "passing_player_id": 13,
+  "receiving_player_id": 22
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e4b"
+  },
+  "pass_id": 180,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "10:10",
+  "quarter": 3,
+  "passing_player_id": 12,
+  "receiving_player_id": 23
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e4c"
+  },
+  "pass_id": 181,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:50",
+  "quarter": 3,
+  "passing_player_id": 13,
+  "receiving_player_id": 14
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e4d"
+  },
+  "pass_id": 182,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:30",
+  "quarter": 3,
+  "passing_player_id": 12,
+  "receiving_player_id": 15
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e4f"
+  },
+  "pass_id": 183,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:30",
+  "quarter": 3,
+  "passing_player_id": 2,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e50"
+  },
+  "pass_id": 184,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:10",
+  "quarter": 3,
+  "passing_player_id": 3,
+  "receiving_player_id": 8
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e51"
+  },
+  "pass_id": 185,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:50",
+  "quarter": 3,
+  "passing_player_id": 4,
+  "receiving_player_id": 10
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e52"
+  },
+  "pass_id": 186,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:30",
+  "quarter": 3,
+  "passing_player_id": 2,
+  "receiving_player_id": 11
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e53"
+  },
+  "pass_id": 187,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:10",
+  "quarter": 3,
+  "passing_player_id": 3,
+  "receiving_player_id": 5
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e54"
+  },
+  "pass_id": 188,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:50",
+  "quarter": 3,
+  "passing_player_id": 4,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e55"
+  },
+  "pass_id": 189,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:30",
+  "quarter": 3,
+  "passing_player_id": 2,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e56"
+  },
+  "pass_id": 190,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:10",
+  "quarter": 3,
+  "passing_player_id": 3,
+  "receiving_player_id": 7
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e57"
+  },
+  "pass_id": 191,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:50",
+  "quarter": 3,
+  "passing_player_id": 4,
+  "receiving_player_id": 8
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e58"
+  },
+  "pass_id": 192,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:30",
+  "quarter": 3,
+  "passing_player_id": 2,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e59"
+  },
+  "pass_id": 193,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:10",
+  "quarter": 3,
+  "passing_player_id": 3,
+  "receiving_player_id": 10
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e5a"
+  },
+  "pass_id": 194,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:50",
+  "quarter": 3,
+  "passing_player_id": 4,
+  "receiving_player_id": 11
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e5b"
+  },
+  "pass_id": 195,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:30",
+  "quarter": 3,
+  "passing_player_id": 2,
+  "receiving_player_id": 7
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e5c"
+  },
+  "pass_id": 196,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:10",
+  "quarter": 3,
+  "passing_player_id": 3,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e5d"
+  },
+  "pass_id": 197,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:50",
+  "quarter": 3,
+  "passing_player_id": 12,
+  "receiving_player_id": 14
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e5e"
+  },
+  "pass_id": 198,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:30",
+  "quarter": 3,
+  "passing_player_id": 13,
+  "receiving_player_id": 16
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e5f"
+  },
+  "pass_id": 199,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:10",
+  "quarter": 3,
+  "passing_player_id": 12,
+  "receiving_player_id": 15
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e60"
+  },
+  "pass_id": 200,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:50",
+  "quarter": 3,
+  "passing_player_id": 13,
+  "receiving_player_id": 18
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e61"
+  },
+  "pass_id": 201,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:30",
+  "quarter": 3,
+  "passing_player_id": 12,
+  "receiving_player_id": 17
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e62"
+  },
+  "pass_id": 202,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:10",
+  "quarter": 3,
+  "passing_player_id": 13,
+  "receiving_player_id": 19
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e63"
+  },
+  "pass_id": 203,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:50",
+  "quarter": 3,
+  "passing_player_id": 12,
+  "receiving_player_id": 20
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e64"
+  },
+  "pass_id": 204,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:30",
+  "quarter": 3,
+  "passing_player_id": 13,
+  "receiving_player_id": 21
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e66"
+  },
+  "pass_id": 205,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:10",
+  "quarter": 3,
+  "passing_player_id": 2,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e67"
+  },
+  "pass_id": 206,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:50",
+  "quarter": 3,
+  "passing_player_id": 3,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e68"
+  },
+  "pass_id": 207,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:30",
+  "quarter": 3,
+  "passing_player_id": 4,
+  "receiving_player_id": 11
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e69"
+  },
+  "pass_id": 208,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:10",
+  "quarter": 3,
+  "passing_player_id": 2,
+  "receiving_player_id": 5
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e6a"
+  },
+  "pass_id": 209,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:50",
+  "quarter": 3,
+  "passing_player_id": 3,
+  "receiving_player_id": 8
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e6b"
+  },
+  "pass_id": 210,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:30",
+  "quarter": 3,
+  "passing_player_id": 4,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e6c"
+  },
+  "pass_id": 211,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:10",
+  "quarter": 3,
+  "passing_player_id": 2,
+  "receiving_player_id": 7
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e6d"
+  },
+  "pass_id": 212,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "11:50",
+  "quarter": 4,
+  "passing_player_id": 3,
+  "receiving_player_id": 10
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e6e"
+  },
+  "pass_id": 213,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "11:30",
+  "quarter": 4,
+  "passing_player_id": 4,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e6f"
+  },
+  "pass_id": 214,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "11:10",
+  "quarter": 4,
+  "passing_player_id": 2,
+  "receiving_player_id": 5
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e70"
+  },
+  "pass_id": 215,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "10:50",
+  "quarter": 4,
+  "passing_player_id": 3,
+  "receiving_player_id": 7
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e71"
+  },
+  "pass_id": 216,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "10:30",
+  "quarter": 4,
+  "passing_player_id": 4,
+  "receiving_player_id": 11
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e72"
+  },
+  "pass_id": 217,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "10:10",
+  "quarter": 4,
+  "passing_player_id": 2,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e73"
+  },
+  "pass_id": 218,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:50",
+  "quarter": 4,
+  "passing_player_id": 3,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e74"
+  },
+  "pass_id": 219,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:30",
+  "quarter": 4,
+  "passing_player_id": 4,
+  "receiving_player_id": 10
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e75"
+  },
+  "pass_id": 220,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:10",
+  "quarter": 4,
+  "passing_player_id": 2,
+  "receiving_player_id": 8
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e76"
+  },
+  "pass_id": 221,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:50",
+  "quarter": 3,
+  "passing_player_id": 12,
+  "receiving_player_id": 15
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e77"
+  },
+  "pass_id": 222,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:30",
+  "quarter": 3,
+  "passing_player_id": 13,
+  "receiving_player_id": 18
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e78"
+  },
+  "pass_id": 223,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:10",
+  "quarter": 3,
+  "passing_player_id": 12,
+  "receiving_player_id": 14
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e79"
+  },
+  "pass_id": 224,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:50",
+  "quarter": 3,
+  "passing_player_id": 13,
+  "receiving_player_id": 19
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e7a"
+  },
+  "pass_id": 225,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:30",
+  "quarter": 3,
+  "passing_player_id": 12,
+  "receiving_player_id": 16
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e7b"
+  },
+  "pass_id": 226,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:10",
+  "quarter": 3,
+  "passing_player_id": 13,
+  "receiving_player_id": 17
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e7d"
+  },
+  "pass_id": 227,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:50",
+  "quarter": 3,
+  "passing_player_id": 12,
+  "receiving_player_id": 18
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e7e"
+  },
+  "pass_id": 228,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:30",
+  "quarter": 3,
+  "passing_player_id": 13,
+  "receiving_player_id": 20
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e7f"
+  },
+  "pass_id": 229,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:10",
+  "quarter": 3,
+  "passing_player_id": 12,
+  "receiving_player_id": 21
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e80"
+  },
+  "pass_id": 230,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:50",
+  "quarter": 3,
+  "passing_player_id": 13,
+  "receiving_player_id": 22
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e81"
+  },
+  "pass_id": 231,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:30",
+  "quarter": 3,
+  "passing_player_id": 12,
+  "receiving_player_id": 23
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e82"
+  },
+  "pass_id": 232,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:10",
+  "quarter": 3,
+  "passing_player_id": 13,
+  "receiving_player_id": 14
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e83"
+  },
+  "pass_id": 233,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:50",
+  "quarter": 3,
+  "passing_player_id": 12,
+  "receiving_player_id": 15
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e84"
+  },
+  "pass_id": 234,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:30",
+  "quarter": 3,
+  "passing_player_id": 13,
+  "receiving_player_id": 16
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e85"
+  },
+  "pass_id": 235,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:10",
+  "quarter": 3,
+  "passing_player_id": 12,
+  "receiving_player_id": 17
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e86"
+  },
+  "pass_id": 236,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:50",
+  "quarter": 3,
+  "passing_player_id": 13,
+  "receiving_player_id": 19
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e87"
+  },
+  "pass_id": 237,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:30",
+  "quarter": 3,
+  "passing_player_id": 12,
+  "receiving_player_id": 20
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e88"
+  },
+  "pass_id": 238,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:10",
+  "quarter": 3,
+  "passing_player_id": 13,
+  "receiving_player_id": 21
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e89"
+  },
+  "pass_id": 239,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:50",
+  "quarter": 3,
+  "passing_player_id": 12,
+  "receiving_player_id": 22
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e8a"
+  },
+  "pass_id": 240,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:30",
+  "quarter": 3,
+  "passing_player_id": 13,
+  "receiving_player_id": 23
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e8b"
+  },
+  "pass_id": 241,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:10",
+  "quarter": 3,
+  "passing_player_id": 12,
+  "receiving_player_id": 14
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e8c"
+  },
+  "pass_id": 242,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:50",
+  "quarter": 3,
+  "passing_player_id": 13,
+  "receiving_player_id": 15
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e8d"
+  },
+  "pass_id": 243,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:30",
+  "quarter": 3,
+  "passing_player_id": 12,
+  "receiving_player_id": 16
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e8e"
+  },
+  "pass_id": 244,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:10",
+  "quarter": 3,
+  "passing_player_id": 13,
+  "receiving_player_id": 17
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e8f"
+  },
+  "pass_id": 245,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:50",
+  "quarter": 3,
+  "passing_player_id": 12,
+  "receiving_player_id": 18
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e90"
+  },
+  "pass_id": 246,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:30",
+  "quarter": 3,
+  "passing_player_id": 13,
+  "receiving_player_id": 19
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e91"
+  },
+  "pass_id": 247,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:10",
+  "quarter": 3,
+  "passing_player_id": 12,
+  "receiving_player_id": 20
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e92"
+  },
+  "pass_id": 248,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "11:50",
+  "quarter": 4,
+  "passing_player_id": 13,
+  "receiving_player_id": 21
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e93"
+  },
+  "pass_id": 249,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "11:30",
+  "quarter": 4,
+  "passing_player_id": 13,
+  "receiving_player_id": 21
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e94"
+  },
+  "pass_id": 250,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "11:10",
+  "quarter": 4,
+  "passing_player_id": 12,
+  "receiving_player_id": 22
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e95"
+  },
+  "pass_id": 251,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "10:50",
+  "quarter": 4,
+  "passing_player_id": 13,
+  "receiving_player_id": 23
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e96"
+  },
+  "pass_id": 252,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "10:30",
+  "quarter": 4,
+  "passing_player_id": 12,
+  "receiving_player_id": 15
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e97"
+  },
+  "pass_id": 253,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "10:10",
+  "quarter": 4,
+  "passing_player_id": 13,
+  "receiving_player_id": 17
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e98"
+  },
+  "pass_id": 254,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:50",
+  "quarter": 4,
+  "passing_player_id": 12,
+  "receiving_player_id": 16
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e99"
+  },
+  "pass_id": 255,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:30",
+  "quarter": 4,
+  "passing_player_id": 13,
+  "receiving_player_id": 18
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e9a"
+  },
+  "pass_id": 256,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:10",
+  "quarter": 4,
+  "passing_player_id": 12,
+  "receiving_player_id": 19
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e9b"
+  },
+  "pass_id": 257,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:50",
+  "quarter": 4,
+  "passing_player_id": 13,
+  "receiving_player_id": 20
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e9c"
+  },
+  "pass_id": 258,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:30",
+  "quarter": 4,
+  "passing_player_id": 12,
+  "receiving_player_id": 21
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e9d"
+  },
+  "pass_id": 259,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:10",
+  "quarter": 4,
+  "passing_player_id": 13,
+  "receiving_player_id": 22
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e9e"
+  },
+  "pass_id": 260,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:50",
+  "quarter": 4,
+  "passing_player_id": 12,
+  "receiving_player_id": 23
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1e9f"
+  },
+  "pass_id": 261,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:30",
+  "quarter": 4,
+  "passing_player_id": 13,
+  "receiving_player_id": 14
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ea0"
+  },
+  "pass_id": 262,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:10",
+  "quarter": 4,
+  "passing_player_id": 12,
+  "receiving_player_id": 15
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ea1"
+  },
+  "pass_id": 263,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:50",
+  "quarter": 4,
+  "passing_player_id": 13,
+  "receiving_player_id": 16
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ea2"
+  },
+  "pass_id": 264,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:30",
+  "quarter": 4,
+  "passing_player_id": 12,
+  "receiving_player_id": 17
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ea3"
+  },
+  "pass_id": 265,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:10",
+  "quarter": 4,
+  "passing_player_id": 13,
+  "receiving_player_id": 18
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ea4"
+  },
+  "pass_id": 266,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:50",
+  "quarter": 4,
+  "passing_player_id": 12,
+  "receiving_player_id": 19
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ea5"
+  },
+  "pass_id": 267,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:30",
+  "quarter": 4,
+  "passing_player_id": 13,
+  "receiving_player_id": 20
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ea6"
+  },
+  "pass_id": 268,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:10",
+  "quarter": 4,
+  "passing_player_id": 12,
+  "receiving_player_id": 21
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ea7"
+  },
+  "pass_id": 269,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:50",
+  "quarter": 4,
+  "passing_player_id": 13,
+  "receiving_player_id": 22
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ea8"
+  },
+  "pass_id": 270,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:30",
+  "quarter": 4,
+  "passing_player_id": 12,
+  "receiving_player_id": 23
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1eaa"
+  },
+  "pass_id": 271,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:10",
+  "quarter": 4,
+  "passing_player_id": 13,
+  "receiving_player_id": 14
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1eab"
+  },
+  "pass_id": 272,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:50",
+  "quarter": 4,
+  "passing_player_id": 12,
+  "receiving_player_id": 16
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1eac"
+  },
+  "pass_id": 273,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:30",
+  "quarter": 4,
+  "passing_player_id": 13,
+  "receiving_player_id": 17
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ead"
+  },
+  "pass_id": 274,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:10",
+  "quarter": 4,
+  "passing_player_id": 12,
+  "receiving_player_id": 18
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1eae"
+  },
+  "pass_id": 275,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:50",
+  "quarter": 4,
+  "passing_player_id": 13,
+  "receiving_player_id": 19
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1eaf"
+  },
+  "pass_id": 276,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:30",
+  "quarter": 4,
+  "passing_player_id": 12,
+  "receiving_player_id": 20
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1eb0"
+  },
+  "pass_id": 277,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:10",
+  "quarter": 4,
+  "passing_player_id": 13,
+  "receiving_player_id": 21
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1eb1"
+  },
+  "pass_id": 278,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:50",
+  "quarter": 4,
+  "passing_player_id": 12,
+  "receiving_player_id": 22
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1eb2"
+  },
+  "pass_id": 279,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:30",
+  "quarter": 4,
+  "passing_player_id": 13,
+  "receiving_player_id": 23
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1eb3"
+  },
+  "pass_id": 280,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:10",
+  "quarter": 4,
+  "passing_player_id": 12,
+  "receiving_player_id": 15
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1eb4"
+  },
+  "pass_id": 281,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:50",
+  "quarter": 4,
+  "passing_player_id": 13,
+  "receiving_player_id": 16
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1eb5"
+  },
+  "pass_id": 282,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:30",
+  "quarter": 4,
+  "passing_player_id": 12,
+  "receiving_player_id": 17
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1eb6"
+  },
+  "pass_id": 283,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:10",
+  "quarter": 4,
+  "passing_player_id": 13,
+  "receiving_player_id": 18
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1eb7"
+  },
+  "pass_id": 284,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "11:50",
+  "quarter": 1,
+  "passing_player_id": 12,
+  "receiving_player_id": 19
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1eb8"
+  },
+  "pass_id": 285,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "11:30",
+  "quarter": 4,
+  "passing_player_id": 3,
+  "receiving_player_id": 5
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1eb9"
+  },
+  "pass_id": 286,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "11:10",
+  "quarter": 4,
+  "passing_player_id": 2,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1eba"
+  },
+  "pass_id": 287,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "10:50",
+  "quarter": 4,
+  "passing_player_id": 4,
+  "receiving_player_id": 7
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ebb"
+  },
+  "pass_id": 288,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "10:30",
+  "quarter": 4,
+  "passing_player_id": 3,
+  "receiving_player_id": 8
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ebc"
+  },
+  "pass_id": 289,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "10:10",
+  "quarter": 4,
+  "passing_player_id": 2,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ebd"
+  },
+  "pass_id": 290,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:50",
+  "quarter": 4,
+  "passing_player_id": 4,
+  "receiving_player_id": 10
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ebe"
+  },
+  "pass_id": 291,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:30",
+  "quarter": 4,
+  "passing_player_id": 3,
+  "receiving_player_id": 11
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ebf"
+  },
+  "pass_id": 292,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:10",
+  "quarter": 4,
+  "passing_player_id": 2,
+  "receiving_player_id": 5
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ec0"
+  },
+  "pass_id": 293,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:50",
+  "quarter": 4,
+  "passing_player_id": 2,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ec1"
+  },
+  "pass_id": 294,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:30",
+  "quarter": 4,
+  "passing_player_id": 3,
+  "receiving_player_id": 8
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ec2"
+  },
+  "pass_id": 295,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:10",
+  "quarter": 4,
+  "passing_player_id": 4,
+  "receiving_player_id": 10
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ec3"
+  },
+  "pass_id": 296,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:50",
+  "quarter": 4,
+  "passing_player_id": 2,
+  "receiving_player_id": 11
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ec4"
+  },
+  "pass_id": 297,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:30",
+  "quarter": 4,
+  "passing_player_id": 3,
+  "receiving_player_id": 7
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ec5"
+  },
+  "pass_id": 298,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:10",
+  "quarter": 4,
+  "passing_player_id": 4,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ec6"
+  },
+  "pass_id": 299,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:50",
+  "quarter": 4,
+  "passing_player_id": 2,
+  "receiving_player_id": 5
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ec7"
+  },
+  "pass_id": 300,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:30",
+  "quarter": 4,
+  "passing_player_id": 3,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ec8"
+  },
+  "pass_id": 301,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:10",
+  "quarter": 4,
+  "passing_player_id": 4,
+  "receiving_player_id": 8
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ec9"
+  },
+  "pass_id": 302,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:50",
+  "quarter": 4,
+  "passing_player_id": 2,
+  "receiving_player_id": 10
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1eca"
+  },
+  "pass_id": 303,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:30",
+  "quarter": 4,
+  "passing_player_id": 3,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ecb"
+  },
+  "pass_id": 304,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "05:10",
+  "quarter": 4,
+  "passing_player_id": 4,
+  "receiving_player_id": 11
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ecc"
+  },
+  "pass_id": 305,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:50",
+  "quarter": 4,
+  "passing_player_id": 2,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ecd"
+  },
+  "pass_id": 306,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:30",
+  "quarter": 4,
+  "passing_player_id": 3,
+  "receiving_player_id": 7
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ece"
+  },
+  "pass_id": 307,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "04:10",
+  "quarter": 4,
+  "passing_player_id": 4,
+  "receiving_player_id": 8
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ecf"
+  },
+  "pass_id": 308,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:50",
+  "quarter": 4,
+  "passing_player_id": 2,
+  "receiving_player_id": 5
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ed0"
+  },
+  "pass_id": 309,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:30",
+  "quarter": 4,
+  "passing_player_id": 3,
+  "receiving_player_id": 10
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ed1"
+  },
+  "pass_id": 310,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "03:10",
+  "quarter": 4,
+  "passing_player_id": 4,
+  "receiving_player_id": 11
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ed2"
+  },
+  "pass_id": 311,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:50",
+  "quarter": 4,
+  "passing_player_id": 2,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ed3"
+  },
+  "pass_id": 312,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:30",
+  "quarter": 4,
+  "passing_player_id": 3,
+  "receiving_player_id": 7
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ed4"
+  },
+  "pass_id": 313,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "02:10",
+  "quarter": 4,
+  "passing_player_id": 12,
+  "receiving_player_id": 17
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ed5"
+  },
+  "pass_id": 314,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:50",
+  "quarter": 4,
+  "passing_player_id": 13,
+  "receiving_player_id": 18
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ed6"
+  },
+  "pass_id": 315,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:30",
+  "quarter": 4,
+  "passing_player_id": 13,
+  "receiving_player_id": 18
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ed7"
+  },
+  "pass_id": 316,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "01:10",
+  "quarter": 4,
+  "passing_player_id": 12,
+  "receiving_player_id": 19
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ed8"
+  },
+  "pass_id": 317,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:50",
+  "quarter": 4,
+  "passing_player_id": 13,
+  "receiving_player_id": 20
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ed9"
+  },
+  "pass_id": 318,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:30",
+  "quarter": 4,
+  "passing_player_id": 12,
+  "receiving_player_id": 21
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1eda"
+  },
+  "pass_id": 319,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "00:10",
+  "quarter": 4,
+  "passing_player_id": 13,
+  "receiving_player_id": 22
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1edb"
+  },
+  "pass_id": 320,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "11:50",
+  "quarter": 1,
+  "passing_player_id": 12,
+  "receiving_player_id": 23
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1edc"
+  },
+  "pass_id": 321,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "11:30",
+  "quarter": 1,
+  "passing_player_id": 13,
+  "receiving_player_id": 14
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1edd"
+  },
+  "pass_id": 322,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "11:10",
+  "quarter": 1,
+  "passing_player_id": 12,
+  "receiving_player_id": 15
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ede"
+  },
+  "pass_id": 323,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "10:50",
+  "quarter": 1,
+  "passing_player_id": 13,
+  "receiving_player_id": 16
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1edf"
+  },
+  "pass_id": 324,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "10:30",
+  "quarter": 1,
+  "passing_player_id": 12,
+  "receiving_player_id": 17
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ee0"
+  },
+  "pass_id": 325,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "10:10",
+  "quarter": 1,
+  "passing_player_id": 13,
+  "receiving_player_id": 18
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ee1"
+  },
+  "pass_id": 326,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:50",
+  "quarter": 1,
+  "passing_player_id": 12,
+  "receiving_player_id": 19
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ee2"
+  },
+  "pass_id": 327,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:30",
+  "quarter": 1,
+  "passing_player_id": 13,
+  "receiving_player_id": 20
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ee3"
+  },
+  "pass_id": 328,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "09:10",
+  "quarter": 1,
+  "passing_player_id": 12,
+  "receiving_player_id": 21
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ee4"
+  },
+  "pass_id": 329,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:50",
+  "quarter": 1,
+  "passing_player_id": 13,
+  "receiving_player_id": 22
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ee5"
+  },
+  "pass_id": 330,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:30",
+  "quarter": 1,
+  "passing_player_id": 12,
+  "receiving_player_id": 23
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ee6"
+  },
+  "pass_id": 331,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "08:10",
+  "quarter": 1,
+  "passing_player_id": 3,
+  "receiving_player_id": 5
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ee7"
+  },
+  "pass_id": 332,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:50",
+  "quarter": 1,
+  "passing_player_id": 2,
+  "receiving_player_id": 6
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ee8"
+  },
+  "pass_id": 333,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:30",
+  "quarter": 1,
+  "passing_player_id": 4,
+  "receiving_player_id": 7
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1ee9"
+  },
+  "pass_id": 334,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "07:10",
+  "quarter": 1,
+  "passing_player_id": 3,
+  "receiving_player_id": 8
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1eea"
+  },
+  "pass_id": 335,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:50",
+  "quarter": 1,
+  "passing_player_id": 2,
+  "receiving_player_id": 9
+},
+{
+  "_id": {
+    "$oid": "6696af4d620f192f018d1eeb"
+  },
+  "pass_id": 336,
+  "game_id": 1,
+  "event_type": "pass",
+  "timestamp": "06:30",
+  "quarter": 1,
+  "passing_player_id": 4,
+  "receiving_player_id": 10
+}]

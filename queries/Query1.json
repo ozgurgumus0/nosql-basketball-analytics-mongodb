@@ -1,0 +1,33 @@
+[
+  {
+    $match: {
+      game_id: 1
+    }
+  },
+  {
+    $sort: {
+      points: -1
+    }
+  },
+  {
+    $limit: 1
+  },
+  {
+    $lookup: {
+      from: "players",
+      localField: "_id",
+      foreignField: "_id",
+      as: "player_info"
+    }
+  },
+  {
+    $unwind: "$player_info"
+  },
+  {
+    $project: {
+      player_id: 1,
+      points: 1,
+      player_name: "$player_info.name"
+    }
+  }
+]

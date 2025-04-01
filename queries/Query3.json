@@ -1,0 +1,134 @@
+[
+  {
+    $match: {
+      _id: 2
+    }
+  },
+  {
+    $project: {
+      name: 1,
+      team: 1,
+      position: 1,
+      time_spent: 1
+    }
+  },
+  {
+    $addFields: {
+      total_time_spent: {
+        $objectToArray: "$time_spent"
+      }
+    }
+  },
+  {
+    $unwind: "$total_time_spent"
+  },
+  {
+    $sort: {
+      "total_time_spent.v": -1
+    }
+  },
+  {
+    $group: {
+      _id: "$_id",
+      name: {
+        $first: "$name"
+      },
+      team: {
+        $first: "$team"
+      },
+      position: {
+        $first: "$position"
+      },
+      sections: {
+        $push: {
+          section: "$total_time_spent.k",
+          time_spent_seconds:
+            "$total_time_spent.v"
+        }
+      }
+    }
+  },
+  {
+    $project: {
+      _id: 1,
+      name: 1,
+      team: 1,
+      position: 1,
+      sections: {
+        $arrayToObject: {
+          $map: {
+            input: {
+              $range: [
+                0,
+                {
+                  $size: "$sections"
+                }
+              ]
+            },
+            as: "index",
+            in: {
+              k: {
+                $switch: {
+                  branches: [
+                    {
+                      case: {
+                        $eq: ["$$index", 0]
+                      },
+                      then: "first"
+                    },
+                    {
+                      case: {
+                        $eq: ["$$index", 1]
+                      },
+                      then: "second"
+                    },
+                    {
+                      case: {
+                        $eq: ["$$index", 2]
+                      },
+                      then: "third"
+                    },
+                    {
+                      case: {
+                        $eq: ["$$index", 3]
+                      },
+                      then: "fourth"
+                    },
+                    {
+                      case: {
+                        $eq: ["$$index", 4]
+                      },
+                      then: "fifth"
+                    },
+                    {
+                      case: {
+                        $eq: ["$$index", 5]
+                      },
+                      then: "sixth"
+                    }
+                  ],
+                  default: {
+                    $concat: [
+                      "position_",
+                      {
+                        $toString: {
+                          $add: ["$$index", 1]
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              v: {
+                $arrayElemAt: [
+                  "$sections",
+                  "$$index"
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    $match: {
+      team: "Dallas Mavericks"
+    }
+  },
+  {
+    $project: {
+      _id: 0,
+      team: 1,
+      start_time: 1,
+      end_time: 1,
+      quarter: 1
+    }
+  }
+]

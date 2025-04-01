@@ -1,0 +1,3510 @@
+[{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c56b"
+  },
+  "event_id": 1,
+  "game_id": 1,
+  "timestamp": "11:35",
+  "team": "Boston Celtics",
+  "player_id": 5,
+  "player_name": "Al Horford",
+  "event": "2-pt shot made",
+  "description": "A. Horford makes 2-pt dunk from 1 ft"
+},
+{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c56c"
+  },
+  "event_id": 2,
+  "game_id": 1,
+  "timestamp": "11:35",
+  "team": "Boston Celtics",
+  "player_id": 1,
+  "player_name": "Jayson Tatum",
+  "event": "assist",
+  "description": "Assist by J. Tatum"
+},
+{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c56d"
+  },
+  "event_id": 3,
+  "game_id": 1,
+  "timestamp": "11:16",
+  "team": "Dallas Mavericks",
+  "player_id": 15,
+  "player_name": "Derrick Jones Jr.",
+  "event": "3-pt shot made",
+  "description": "D. Jones makes 3-pt jump shot from 27 ft"
+},
+{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c56e"
+  },
+  "event_id": 4,
+  "game_id": 1,
+  "timestamp": "11:16",
+  "team": "Dallas Mavericks",
+  "player_id": 16,
+  "player_name": "Daniel Gafford",
+  "event": "assist",
+  "description": "Assist by D. Gafford"
+},
+{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c56f"
+  },
+  "event_id": 5,
+  "game_id": 1,
+  "timestamp": "11:08",
+  "team": "Boston Celtics",
+  "player_id": 4,
+  "player_name": "Jrue Holiday",
+  "event": "3-pt shot made",
+  "description": "J. Holiday makes 3-pt jump shot from 27 ft"
+},
+{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c570"
+  },
+  "event_id": 6,
+  "game_id": 1,
+  "timestamp": "11:08",
+  "team": "Boston Celtics",
+  "player_id": 3,
+  "player_name": "Derrick White",
+  "event": "assist",
+  "description": "Assist by D. White"
+},
+{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c571"
+  },
+  "event_id": 7,
+  "game_id": 1,
+  "timestamp": "10:45",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "2-pt shot made",
+  "description": "L. Doncic makes 2-pt jump shot from 12 ft"
+},
+{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c572"
+  },
+  "event_id": 8,
+  "game_id": 1,
+  "timestamp": "9:47",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by L. Doncic"
+},
+{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c573"
+  },
+  "event_id": 9,
+  "game_id": 1,
+  "timestamp": "9:46",
+  "team": "Boston Celtics",
+  "player_id": 1,
+  "player_name": "Jayson Tatum",
+  "event": "personal foul",
+  "description": "Personal foul by J. Tatum"
+},
+{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c574"
+  },
+  "event_id": 10,
+  "game_id": 1,
+  "timestamp": "9:46",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "drawn foul",
+  "description": "Foul drawn by L. Doncic"
+},
+{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c575"
+  },
+  "event_id": 11,
+  "game_id": 1,
+  "timestamp": "9:30",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "2-pt shot missed",
+  "description": "L. Doncic misses 2-pt jump shot from 9 ft"
+},
+{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c576"
+  },
+  "event_id": 12,
+  "game_id": 1,
+  "timestamp": "9:32",
+  "team": "Dallas Mavericks",
+  "player_id": 16,
+  "player_name": "Daniel Gafford",
+  "event": "offensive rebound",
+  "description": "Offensive rebound by D. Gafford"
+},
+{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c577"
+  },
+  "event_id": 13,
+  "game_id": 1,
+  "timestamp": "9:32",
+  "team": "Dallas Mavericks",
+  "player_id": 16,
+  "player_name": "Daniel Gafford",
+  "event": "2-pt shot made",
+  "description": "D. Gafford makes 2-pt layup at rim"
+},
+{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c578"
+  },
+  "event_id": 14,
+  "game_id": 1,
+  "timestamp": "9:19",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "2-pt shot made",
+  "description": "P. Washington makes 2-pt dunk from 2 ft"
+},
+{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c579"
+  },
+  "event_id": 15,
+  "game_id": 1,
+  "timestamp": "9:19",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "assist",
+  "description": "Assist by L. Doncic"
+},
+{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c57a"
+  },
+  "event_id": 16,
+  "game_id": 1,
+  "timestamp": "9:04",
+  "team": "Boston Celtics",
+  "player_id": 5,
+  "player_name": "Al Horford",
+  "event": "3-pt shot made",
+  "description": "A. Horford makes 3-pt jump shot from 24 ft"
+},
+{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c57b"
+  },
+  "event_id": 17,
+  "game_id": 1,
+  "timestamp": "9:04",
+  "team": "Boston Celtics",
+  "player_id": 1,
+  "player_name": "Jayson Tatum",
+  "event": "assist",
+  "description": "Assist by J. Tatum"
+},
+{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c57c"
+  },
+  "event_id": 18,
+  "game_id": 1,
+  "timestamp": "8:49",
+  "team": "Boston Celtics",
+  "player_id": 2,
+  "player_name": "Jaylen Brown",
+  "event": "2-pt shot made",
+  "description": "J. Brown makes 2-pt dunk from 2 ft"
+},
+{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c57d"
+  },
+  "event_id": 19,
+  "game_id": 1,
+  "timestamp": "8:49",
+  "team": "Boston Celtics",
+  "player_id": 5,
+  "player_name": "Al Horford",
+  "event": "assist",
+  "description": "Assist by A. Horford"
+},
+{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c57e"
+  },
+  "event_id": 20,
+  "game_id": 1,
+  "timestamp": "8:25",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "2-pt shot missed",
+  "description": "K. Irving misses 2-pt jump shot from 10 ft"
+},
+{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c57f"
+  },
+  "event_id": 21,
+  "game_id": 1,
+  "timestamp": "8:25",
+  "team": "Boston Celtics",
+  "player_id": 5,
+  "player_name": "Al Horford",
+  "event": "block",
+  "description": "Block by A. Horford"
+},
+{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c580"
+  },
+  "event_id": 22,
+  "game_id": 1,
+  "timestamp": "7:40",
+  "team": "Dallas Mavericks",
+  "player_id": 15,
+  "player_name": "Derrick Jones Jr.",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by D. Jones"
+},
+{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c581"
+  },
+  "event_id": 23,
+  "game_id": 1,
+  "timestamp": "7:33",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "2-pt shot made",
+  "description": "K. Irving makes 2-pt jump shot from 13 ft"
+},
+{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c582"
+  },
+  "event_id": 24,
+  "game_id": 1,
+  "timestamp": "7:09",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "2-pt shot made",
+  "description": "K. Irving makes 2-pt jump shot from 16 ft"
+},
+{
+  "_id": {
+    "$oid": "6690491c1941c74a5279c583"
+  },
+  "event_id": 25,
+  "game_id": 1,
+  "timestamp": "7:09",
+  "team": "Dallas Mavericks",
+  "player_id": 19,
+  "player_name": "Dereck Lively II",
+  "event": "assist",
+  "description": "Assist by D. Lively"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c585"
+  },
+  "event_id": 26,
+  "game_id": 1,
+  "timestamp": "6:38",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "2-pt shot made",
+  "description": "L. Doncic makes 2-pt jump shot from 3 ft"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c586"
+  },
+  "event_id": 27,
+  "game_id": 1,
+  "timestamp": "6:04",
+  "team": "Dallas Mavericks",
+  "player_id": 15,
+  "player_name": "Derrick Jones Jr.",
+  "event": "2-pt shot missed",
+  "description": "D. Jones misses 3-pt jump shot from 27 ft"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c587"
+  },
+  "event_id": 28,
+  "game_id": 1,
+  "timestamp": "5:41",
+  "team": "Dallas Mavericks",
+  "player_id": 15,
+  "player_name": "Derrick Jones Jr.",
+  "event": "2-pt shot missed",
+  "description": "D. Jones misses 2-pt layup from 5 ft"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c588"
+  },
+  "event_id": 29,
+  "game_id": 1,
+  "timestamp": "5:11",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "3-pt shot made",
+  "description": "L. Doncic makes 3-pt jump shot from 27 ft"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c589"
+  },
+  "event_id": 30,
+  "game_id": 1,
+  "timestamp": "4:38",
+  "team": "Boston Celtics",
+  "player_id": 2,
+  "player_name": "Jaylen Brown",
+  "event": "steal",
+  "description": "Turnover by L. Doncic (lost ball; steal by J. Brown)"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c58a"
+  },
+  "event_id": 31,
+  "game_id": 1,
+  "timestamp": "4:28",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "2-pt shot missed",
+  "description": "P. Washington misses 2-pt layup from 5 ft"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c58b"
+  },
+  "event_id": 32,
+  "game_id": 1,
+  "timestamp": "4:08",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by L. Doncic"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c58c"
+  },
+  "event_id": 33,
+  "game_id": 1,
+  "timestamp": "3:56",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "2-pt shot missed",
+  "description": "L. Doncic misses 3-pt jump shot from 27 ft"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c58d"
+  },
+  "event_id": 34,
+  "game_id": 1,
+  "timestamp": "3:42",
+  "team": "Dallas Mavericks",
+  "player_id": 10,
+  "player_name": "Josh Green",
+  "event": "2-pt shot missed",
+  "description": "J. Green misses 2-pt jump shot from 12 ft"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c58e"
+  },
+  "event_id": 35,
+  "game_id": 1,
+  "timestamp": "3:27",
+  "team": "Dallas Mavericks",
+  "player_id": 10,
+  "player_name": "Josh Green",
+  "event": "offensive rebound",
+  "description": "Offensive rebound by J. Green"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c58f"
+  },
+  "event_id": 36,
+  "game_id": 1,
+  "timestamp": "3:26",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "2-pt shot missed",
+  "description": "L. Doncic misses 3-pt jump shot from 26 ft"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c590"
+  },
+  "event_id": 37,
+  "game_id": 1,
+  "timestamp": "3:15",
+  "team": "Dallas Mavericks",
+  "player_id": 20,
+  "player_name": "Jaden Hardy",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by J. Hardy"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c591"
+  },
+  "event_id": 38,
+  "game_id": 1,
+  "timestamp": "3:10",
+  "team": "Dallas Mavericks",
+  "player_id": 20,
+  "player_name": "Jaden Hardy",
+  "event": "2-pt shot missed",
+  "description": "J. Hardy misses 2-pt jump shot from 5 ft"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c592"
+  },
+  "event_id": 39,
+  "game_id": 1,
+  "timestamp": "3:09",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "2-pt shot missed",
+  "description": "K. Irving misses 2-pt jump shot from 14 ft"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c593"
+  },
+  "event_id": 40,
+  "game_id": 1,
+  "timestamp": "3:09",
+  "team": "Boston Celtics",
+  "player_id": 6,
+  "player_name": "Kristaps Porzingis",
+  "event": "block",
+  "description": "Block by K. Porzingis"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c594"
+  },
+  "event_id": 41,
+  "game_id": 1,
+  "timestamp": "2:52",
+  "team": "Dallas Mavericks",
+  "player_id": 20,
+  "player_name": "Jaden Hardy",
+  "event": "2-pt shot missed",
+  "description": "J. Hardy misses 2-pt layup from 6 ft"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c595"
+  },
+  "event_id": 42,
+  "game_id": 1,
+  "timestamp": "2:20",
+  "team": "Dallas Mavericks",
+  "player_id": 16,
+  "player_name": "Daniel Gafford",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by D. Gafford"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c596"
+  },
+  "event_id": 43,
+  "game_id": 1,
+  "timestamp": "2:20",
+  "team": "Dallas Mavericks",
+  "player_id": 20,
+  "player_name": "Jaden Hardy",
+  "event": "2-pt shot made",
+  "description": "J. Hardy makes 2-pt jump shot from 14 ft"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c597"
+  },
+  "event_id": 44,
+  "game_id": 1,
+  "timestamp": "2:00",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "2-pt shot missed",
+  "description": "K. Irving misses 3-pt jump shot from 24 ft"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c598"
+  },
+  "event_id": 45,
+  "game_id": 1,
+  "timestamp": "1:50",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "2-pt shot missed",
+  "description": "K. Irving misses 2-pt jump shot from 14 ft"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c599"
+  },
+  "event_id": 46,
+  "game_id": 1,
+  "timestamp": "1:37",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "2-pt shot missed",
+  "description": "K. Irving misses 2-pt jump shot from 14 ft"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c59a"
+  },
+  "event_id": 47,
+  "game_id": 1,
+  "timestamp": "1:15",
+  "team": "Dallas Mavericks",
+  "player_id": 20,
+  "player_name": "Jaden Hardy",
+  "event": "2-pt shot missed",
+  "description": "J. Hardy misses 3-pt jump shot from 27 ft"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c59b"
+  },
+  "event_id": 48,
+  "game_id": 1,
+  "timestamp": "0:39",
+  "team": "Dallas Mavericks",
+  "player_id": 10,
+  "player_name": "Josh Green",
+  "event": "2-pt shot missed",
+  "description": "J. Green misses 2-pt dunk from 4 ft"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c59c"
+  },
+  "event_id": 49,
+  "game_id": 1,
+  "timestamp": "0:09",
+  "team": "Boston Celtics",
+  "player_id": 6,
+  "player_name": "Kristaps Porzingis",
+  "event": "block",
+  "description": "Block by K. Porzingis"
+},
+{
+  "_id": {
+    "$oid": "669049511941c74a5279c59d"
+  },
+  "event_id": 50,
+  "game_id": 1,
+  "timestamp": "0:06",
+  "team": "Boston Celtics",
+  "player_id": 6,
+  "player_name": "Kristaps Porzingis",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by K. Porzingis"
+},
+{
+  "_id": {
+    "$oid": "66904f9d6f8d049e980775d2"
+  },
+  "event_id": 51,
+  "game_id": 1,
+  "timestamp": "0:06",
+  "team": "Boston Celtics",
+  "player_id": 6,
+  "player_name": "Kristaps Porzingis",
+  "event": "block",
+  "description": "Block by K. Porzingis"
+},
+{
+  "_id": {
+    "$oid": "66904f9d6f8d049e980775d3"
+  },
+  "event_id": 52,
+  "game_id": 1,
+  "timestamp": "0:06",
+  "team": "Boston Celtics",
+  "player_id": 6,
+  "player_name": "Kristaps Porzingis",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by K. Porzingis"
+},
+{
+  "_id": {
+    "$oid": "66904f9d6f8d049e980775d4"
+  },
+  "event_id": 53,
+  "game_id": 1,
+  "timestamp": "11:39",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "2-pt shot missed",
+  "description": "K. Irving misses 2-pt layup from 4 ft"
+},
+{
+  "_id": {
+    "$oid": "66904f9d6f8d049e980775d5"
+  },
+  "event_id": 54,
+  "game_id": 1,
+  "timestamp": "11:38",
+  "team": "Dallas Mavericks",
+  "player_id": "team",
+  "player_name": "Team",
+  "event": "offensive rebound",
+  "description": "Offensive rebound by Team"
+},
+{
+  "_id": {
+    "$oid": "66904f9d6f8d049e980775d6"
+  },
+  "event_id": 55,
+  "game_id": 1,
+  "timestamp": "11:29",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "2-pt shot made",
+  "description": "K. Irving makes 2-pt hook shot from 5 ft"
+},
+{
+  "_id": {
+    "$oid": "66904f9d6f8d049e980775d7"
+  },
+  "event_id": 56,
+  "game_id": 1,
+  "timestamp": "11:10",
+  "team": "Boston Celtics",
+  "player_id": 11,
+  "player_name": "Payton Pritchard",
+  "event": "2-pt shot missed",
+  "description": "P. Pritchard misses 3-pt jump shot from 23 ft"
+},
+{
+  "_id": {
+    "$oid": "66904f9d6f8d049e980775d8"
+  },
+  "event_id": 57,
+  "game_id": 1,
+  "timestamp": "11:09",
+  "team": "Boston Celtics",
+  "player_id": 11,
+  "player_name": "Payton Pritchard",
+  "event": "offensive rebound",
+  "description": "Offensive rebound by P. Pritchard"
+},
+{
+  "_id": {
+    "$oid": "66904f9d6f8d049e980775d9"
+  },
+  "event_id": 58,
+  "game_id": 1,
+  "timestamp": "11:29",
+  "team": "Boston Celtics",
+  "player_id": 2,
+  "player_name": "Jaylen Brown",
+  "event": "2-pt shot made",
+  "description": "J. Brown makes 2-pt jump shot from 8 ft"
+},
+{
+  "_id": {
+    "$oid": "66904f9d6f8d049e980775da"
+  },
+  "event_id": 59,
+  "game_id": 1,
+  "timestamp": "11:29",
+  "team": "Dallas Mavericks",
+  "player_id": 16,
+  "player_name": "Daniel Gafford",
+  "event": "2-pt shot made",
+  "description": "D. Gafford makes 2-pt hook shot from 4 ft"
+},
+{
+  "_id": {
+    "$oid": "66904f9d6f8d049e980775db"
+  },
+  "event_id": 60,
+  "game_id": 1,
+  "timestamp": "10:40",
+  "team": "Boston Celtics",
+  "player_id": 11,
+  "player_name": "Sam Hauser",
+  "event": "personal foul",
+  "description": "Shooting foul by S. Hauser"
+},
+{
+  "_id": {
+    "$oid": "66904f9d6f8d049e980775dc"
+  },
+  "event_id": 61,
+  "game_id": 1,
+  "timestamp": "10:40",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "drawn foul",
+  "description": "Foul drawn by P. Washington"
+},
+{
+  "_id": {
+    "$oid": "66904f9d6f8d049e980775dd"
+  },
+  "event_id": 62,
+  "game_id": 1,
+  "timestamp": "10:19",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "free throw made",
+  "description": "P. Washington makes free throw 1 of 2"
+},
+{
+  "_id": {
+    "$oid": "66904f9d6f8d049e980775de"
+  },
+  "event_id": 63,
+  "game_id": 1,
+  "timestamp": "10:19",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "free throw made",
+  "description": "P. Washington makes free throw 2 of 2"
+},
+{
+  "_id": {
+    "$oid": "66904f9d6f8d049e980775df"
+  },
+  "event_id": 64,
+  "game_id": 1,
+  "timestamp": "9:57",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "3-pt shot missed",
+  "description": "K. Irving misses 3-pt jump shot from 28 ft"
+},
+{
+  "_id": {
+    "$oid": "66904f9d6f8d049e980775e0"
+  },
+  "event_id": 65,
+  "game_id": 1,
+  "timestamp": "9:39",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by P. Washington"
+},
+{
+  "_id": {
+    "$oid": "66904f9d6f8d049e980775e1"
+  },
+  "event_id": 66,
+  "game_id": 1,
+  "timestamp": "9:30",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "2-pt shot missed",
+  "description": "K. Irving misses 2-pt layup from 5 ft"
+},
+{
+  "_id": {
+    "$oid": "66904f9d6f8d049e980775e2"
+  },
+  "event_id": 67,
+  "game_id": 1,
+  "timestamp": "9:02",
+  "team": "Dallas Mavericks",
+  "player_id": 16,
+  "player_name": "Daniel Gafford",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by D. Gafford"
+},
+{
+  "_id": {
+    "$oid": "66904f9d6f8d049e980775e3"
+  },
+  "event_id": 68,
+  "game_id": 1,
+  "timestamp": "9:00",
+  "team": "Boston Celtics",
+  "player_id": 11,
+  "player_name": "Payton Pritchard",
+  "event": "personal foul",
+  "description": "Shooting foul by P. Pritchard"
+},
+{
+  "_id": {
+    "$oid": "66904f9d6f8d049e980775e4"
+  },
+  "event_id": 69,
+  "game_id": 1,
+  "timestamp": "9:00",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "drawn foul",
+  "description": "Foul drawn by L. Doncic"
+},
+{
+  "_id": {
+    "$oid": "66904f9d6f8d049e980775e5"
+  },
+  "event_id": 70,
+  "game_id": 1,
+  "timestamp": "8:49",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "free throw missed",
+  "description": "L. Doncic misses free throw 1 of 2"
+},
+{
+  "_id": {
+    "$oid": "66904f9d6f8d049e980775e6"
+  },
+  "event_id": 71,
+  "game_id": 1,
+  "timestamp": "8:49",
+  "team": "Dallas Mavericks",
+  "player_id": "team",
+  "player_name": "Team",
+  "event": "offensive rebound",
+  "description": "Offensive rebound by Team"
+},
+{
+  "_id": {
+    "$oid": "669054d16f8d049e980775e8"
+  },
+  "event_id": 72,
+  "game_id": 1,
+  "timestamp": "8:49",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "free throw made",
+  "description": "L. Doncic makes free throw 2 of 2"
+},
+{
+  "_id": {
+    "$oid": "669054d16f8d049e980775e9"
+  },
+  "event_id": 73,
+  "game_id": 1,
+  "timestamp": "8:26",
+  "team": "Dallas Mavericks",
+  "player_id": 19,
+  "player_name": "Dereck Lively II",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by D. Lively"
+},
+{
+  "_id": {
+    "$oid": "669054d16f8d049e980775ea"
+  },
+  "event_id": 74,
+  "game_id": 1,
+  "timestamp": "8:16",
+  "team": "Boston Celtics",
+  "player_id": 6,
+  "player_name": "Kristaps Porzingis",
+  "event": "personal foul",
+  "description": "Personal foul by K. Porzingis"
+},
+{
+  "_id": {
+    "$oid": "669054d16f8d049e980775eb"
+  },
+  "event_id": 75,
+  "game_id": 1,
+  "timestamp": "8:16",
+  "team": "Dallas Mavericks",
+  "player_id": 19,
+  "player_name": "Dereck Lively II",
+  "event": "drawn foul",
+  "description": "Foul drawn by D. Lively"
+},
+{
+  "_id": {
+    "$oid": "669054d16f8d049e980775ec"
+  },
+  "event_id": 76,
+  "game_id": 1,
+  "timestamp": "8:03",
+  "team": "Dallas Mavericks",
+  "player_id": 19,
+  "player_name": "Dereck Lively II",
+  "event": "turnover",
+  "description": "Turnover by D. Lively (out of bounds lost ball)"
+},
+{
+  "_id": {
+    "$oid": "669054d16f8d049e980775ed"
+  },
+  "event_id": 77,
+  "game_id": 1,
+  "timestamp": "7:46",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by P. Washington"
+},
+{
+  "_id": {
+    "$oid": "669054d16f8d049e980775ee"
+  },
+  "event_id": 78,
+  "game_id": 1,
+  "timestamp": "7:32",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "3-pt shot missed",
+  "description": "P. Washington misses 3-pt jump shot from 28 ft"
+},
+{
+  "_id": {
+    "$oid": "669054d16f8d049e980775ef"
+  },
+  "event_id": 79,
+  "game_id": 1,
+  "timestamp": "7:10",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "3-pt shot missed",
+  "description": "L. Doncic misses 3-pt jump shot from 27 ft"
+},
+{
+  "_id": {
+    "$oid": "669054d16f8d049e980775f0"
+  },
+  "event_id": 80,
+  "game_id": 1,
+  "timestamp": "7:00",
+  "team": "Boston Celtics",
+  "player_id": 5,
+  "player_name": "Al Horford",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by A. Horford"
+},
+{
+  "_id": {
+    "$oid": "669054d16f8d049e980775f1"
+  },
+  "event_id": 81,
+  "game_id": 1,
+  "timestamp": "6:57",
+  "team": "Boston Celtics",
+  "player_id": 6,
+  "player_name": "Kristaps Porzingis",
+  "event": "2-pt shot made",
+  "description": "K. Porzingis makes 2-pt jump shot from 15 ft"
+},
+{
+  "_id": {
+    "$oid": "669054d16f8d049e980775f2"
+  },
+  "event_id": 82,
+  "game_id": 1,
+  "timestamp": "6:30",
+  "team": "Boston Celtics",
+  "player_id": 3,
+  "player_name": "Derrick White",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by D. White"
+},
+{
+  "_id": {
+    "$oid": "669054d16f8d049e980775f3"
+  },
+  "event_id": 83,
+  "game_id": 1,
+  "timestamp": "6:27",
+  "team": "Boston Celtics",
+  "player_id": 6,
+  "player_name": "Kristaps Porzingis",
+  "event": "2-pt shot made",
+  "description": "K. Porzingis makes 2-pt jump shot from 19 ft"
+},
+{
+  "_id": {
+    "$oid": "669054d16f8d049e980775f4"
+  },
+  "event_id": 84,
+  "game_id": 1,
+  "timestamp": "6:11",
+  "team": "Dallas Mavericks",
+  "player_id": 15,
+  "player_name": "Derrick Jones Jr.",
+  "event": "2-pt shot made",
+  "description": "D. Jones makes 2-pt jump shot from 6 ft"
+},
+{
+  "_id": {
+    "$oid": "669054d16f8d049e980775f5"
+  },
+  "event_id": 85,
+  "game_id": 1,
+  "timestamp": "6:11",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "assist",
+  "description": "Assist by K. Irving"
+},
+{
+  "_id": {
+    "$oid": "669054d16f8d049e980775f6"
+  },
+  "event_id": 86,
+  "game_id": 1,
+  "timestamp": "5:55",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by P. Washington"
+},
+{
+  "_id": {
+    "$oid": "669054d16f8d049e980775f7"
+  },
+  "event_id": 87,
+  "game_id": 1,
+  "timestamp": "5:36",
+  "team": "Boston Celtics",
+  "player_id": 4,
+  "player_name": "Jrue Holiday",
+  "event": "personal foul",
+  "description": "Personal foul by J. Holiday"
+},
+{
+  "_id": {
+    "$oid": "669054d16f8d049e980775f8"
+  },
+  "event_id": 88,
+  "game_id": 1,
+  "timestamp": "5:36",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "drawn foul",
+  "description": "Foul drawn by L. Doncic"
+},
+{
+  "_id": {
+    "$oid": "669054d16f8d049e980775f9"
+  },
+  "event_id": 89,
+  "game_id": 1,
+  "timestamp": "5:20",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "2-pt shot missed",
+  "description": "L. Doncic misses 2-pt layup from 5 ft"
+},
+{
+  "_id": {
+    "$oid": "669054d16f8d049e980775fa"
+  },
+  "event_id": 90,
+  "game_id": 1,
+  "timestamp": "5:15",
+  "team": "Boston Celtics",
+  "player_id": 2,
+  "player_name": "Jaylen Brown",
+  "event": "steal",
+  "description": "Turnover by L. Doncic (lost ball; steal by J. Brown)"
+},
+{
+  "_id": {
+    "$oid": "669055e26f8d049e980775fc"
+  },
+  "event_id": 91,
+  "game_id": 1,
+  "timestamp": "5:01",
+  "team": "Boston Celtics",
+  "player_id": 2,
+  "player_name": "Jaylen Brown",
+  "event": "2-pt shot made",
+  "description": "J. Brown makes 2-pt dunk from 1 ft"
+},
+{
+  "_id": {
+    "$oid": "669055e26f8d049e980775fd"
+  },
+  "event_id": 92,
+  "game_id": 1,
+  "timestamp": "4:49",
+  "team": "Boston Celtics",
+  "player_id": 4,
+  "player_name": "Jrue Holiday",
+  "event": "drawn foul",
+  "description": "Foul drawn by J. Holiday"
+},
+{
+  "_id": {
+    "$oid": "669055e26f8d049e980775fe"
+  },
+  "event_id": 93,
+  "game_id": 1,
+  "timestamp": "4:49",
+  "team": "Dallas Mavericks",
+  "player_id": 18,
+  "player_name": "Maxi Kleber",
+  "event": "offensive foul",
+  "description": "Offensive foul by M. Kleber"
+},
+{
+  "_id": {
+    "$oid": "669055e26f8d049e980775ff"
+  },
+  "event_id": 94,
+  "game_id": 1,
+  "timestamp": "4:49",
+  "team": "Dallas Mavericks",
+  "player_id": 18,
+  "player_name": "Maxi Kleber",
+  "event": "turnover",
+  "description": "Turnover by M. Kleber (offensive foul)"
+},
+{
+  "_id": {
+    "$oid": "669055e26f8d049e98077600"
+  },
+  "event_id": 95,
+  "game_id": 1,
+  "timestamp": "4:33",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "turnover",
+  "description": "Turnover by K. Irving (bad pass)"
+},
+{
+  "_id": {
+    "$oid": "669055e26f8d049e98077601"
+  },
+  "event_id": 96,
+  "game_id": 1,
+  "timestamp": "3:59",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "2-pt shot made",
+  "description": "L. Doncic makes 2-pt layup from 2 ft"
+},
+{
+  "_id": {
+    "$oid": "669055e26f8d049e98077602"
+  },
+  "event_id": 97,
+  "game_id": 1,
+  "timestamp": "3:33",
+  "team": "Dallas Mavericks",
+  "player_id": 10,
+  "player_name": "Josh Green",
+  "event": "2-pt shot missed",
+  "description": "J. Green misses 2-pt layup from 7 ft"
+},
+{
+  "_id": {
+    "$oid": "669055e26f8d049e98077603"
+  },
+  "event_id": 98,
+  "game_id": 1,
+  "timestamp": "3:34",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "3-pt shot missed",
+  "description": "P. Washington misses 3-pt jump shot from 27 ft"
+},
+{
+  "_id": {
+    "$oid": "669055e26f8d049e98077604"
+  },
+  "event_id": 99,
+  "game_id": 1,
+  "timestamp": "3:05",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by P. Washington"
+},
+{
+  "_id": {
+    "$oid": "669055e26f8d049e98077605"
+  },
+  "event_id": 100,
+  "game_id": 1,
+  "timestamp": "3:02",
+  "team": "Boston Celtics",
+  "player_id": 4,
+  "player_name": "Jrue Holiday",
+  "event": "personal foul",
+  "description": "Personal foul by J. Holiday"
+},
+{
+  "_id": {
+    "$oid": "669055e26f8d049e98077606"
+  },
+  "event_id": 101,
+  "game_id": 1,
+  "timestamp": "3:02",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "drawn foul",
+  "description": "Foul drawn by P. Washington"
+},
+{
+  "_id": {
+    "$oid": "669055e26f8d049e98077607"
+  },
+  "event_id": 102,
+  "game_id": 1,
+  "timestamp": "3:02",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "free throw missed",
+  "description": "P. Washington misses free throw 1 of 2"
+},
+{
+  "_id": {
+    "$oid": "669055e26f8d049e98077608"
+  },
+  "event_id": 103,
+  "game_id": 1,
+  "timestamp": "3:02",
+  "team": "Dallas Mavericks",
+  "player_id": "team",
+  "player_name": "Team",
+  "event": "offensive rebound",
+  "description": "Offensive rebound by Team"
+},
+{
+  "_id": {
+    "$oid": "669055e26f8d049e98077609"
+  },
+  "event_id": 104,
+  "game_id": 1,
+  "timestamp": "3:02",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "free throw missed",
+  "description": "P. Washington misses free throw 2 of 2"
+},
+{
+  "_id": {
+    "$oid": "669055e26f8d049e9807760a"
+  },
+  "event_id": 105,
+  "game_id": 1,
+  "timestamp": "2:50",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "2-pt shot made",
+  "description": "L. Doncic makes 2-pt jump shot from 6 ft"
+},
+{
+  "_id": {
+    "$oid": "669055e26f8d049e9807760b"
+  },
+  "event_id": 106,
+  "game_id": 1,
+  "timestamp": "2:32",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "2-pt shot missed",
+  "description": "L. Doncic misses 2-pt hook shot from 7 ft"
+},
+{
+  "_id": {
+    "$oid": "669055e26f8d049e9807760c"
+  },
+  "event_id": 107,
+  "game_id": 1,
+  "timestamp": "2:30",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "offensive rebound",
+  "description": "Offensive rebound by P. Washington"
+},
+{
+  "_id": {
+    "$oid": "66905a620be1e2081d9045b7"
+  },
+  "event_id": 108,
+  "game_id": 1,
+  "timestamp": "2:08",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "2-pt shot missed",
+  "description": "L. Doncic misses 2-pt hook shot from 7 ft"
+},
+{
+  "_id": {
+    "$oid": "66905a620be1e2081d9045b8"
+  },
+  "event_id": 109,
+  "game_id": 1,
+  "timestamp": "2:08",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "offensive rebound",
+  "description": "Offensive rebound by P. Washington"
+},
+{
+  "_id": {
+    "$oid": "66905a620be1e2081d9045b9"
+  },
+  "event_id": 110,
+  "game_id": 1,
+  "timestamp": "2:06",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "2-pt shot made",
+  "description": "P. Washington makes 2-pt dunk from 3 ft"
+},
+{
+  "_id": {
+    "$oid": "66905a620be1e2081d9045ba"
+  },
+  "event_id": 111,
+  "game_id": 1,
+  "timestamp": "1:25",
+  "team": "Dallas Mavericks",
+  "player_id": 18,
+  "player_name": "Maxi Kleber",
+  "event": "2-pt shot made",
+  "description": "M. Kleber makes 2-pt layup from 6 ft"
+},
+{
+  "_id": {
+    "$oid": "66905a620be1e2081d9045bb"
+  },
+  "event_id": 112,
+  "game_id": 1,
+  "timestamp": "1:25",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "assist",
+  "description": "Assist by K. Irving"
+},
+{
+  "_id": {
+    "$oid": "66905a620be1e2081d9045bc"
+  },
+  "event_id": 113,
+  "game_id": 1,
+  "timestamp": "1:18",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by L. Doncic"
+},
+{
+  "_id": {
+    "$oid": "66905a620be1e2081d9045bd"
+  },
+  "event_id": 114,
+  "game_id": 1,
+  "timestamp": "0:55",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "2-pt shot made",
+  "description": "L. Doncic makes 2-pt jump shot from 15 ft"
+},
+{
+  "_id": {
+    "$oid": "66905a620be1e2081d9045be"
+  },
+  "event_id": 115,
+  "game_id": 1,
+  "timestamp": "0:33",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by K. Irving"
+},
+{
+  "_id": {
+    "$oid": "66905a620be1e2081d9045bf"
+  },
+  "event_id": 116,
+  "game_id": 1,
+  "timestamp": "0:09",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "3-pt shot made",
+  "description": "L. Doncic makes 3-pt jump shot from 27 ft"
+},
+{
+  "_id": {
+    "$oid": "66905a620be1e2081d9045c0"
+  },
+  "event_id": 117,
+  "game_id": 1,
+  "timestamp": "0:01",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by L. Doncic"
+},
+{
+  "_id": {
+    "$oid": "66905b1c0be1e2081d9045c2"
+  },
+  "event_id": 118,
+  "game_id": 1,
+  "timestamp": "11:41",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "2-pt shot made",
+  "description": "L. Doncic makes 2-pt layup from 2 ft"
+},
+{
+  "_id": {
+    "$oid": "66905b1c0be1e2081d9045c3"
+  },
+  "event_id": 119,
+  "game_id": 1,
+  "timestamp": "11:22",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "2-pt shot missed",
+  "description": "K. Irving misses 2-pt jump shot from 15 ft"
+},
+{
+  "_id": {
+    "$oid": "66905b1c0be1e2081d9045c4"
+  },
+  "event_id": 120,
+  "game_id": 1,
+  "timestamp": "11:00",
+  "team": "Dallas Mavericks",
+  "player_id": 16,
+  "player_name": "Daniel Gafford",
+  "event": "offensive rebound",
+  "description": "Offensive rebound by D. Gafford"
+},
+{
+  "_id": {
+    "$oid": "66905b1c0be1e2081d9045c5"
+  },
+  "event_id": 121,
+  "game_id": 1,
+  "timestamp": "10:59",
+  "team": "Dallas Mavericks",
+  "player_id": 16,
+  "player_name": "Daniel Gafford",
+  "event": "2-pt shot made",
+  "description": "D. Gafford makes 2-pt layup at rim"
+},
+{
+  "_id": {
+    "$oid": "66905b1c0be1e2081d9045c6"
+  },
+  "event_id": 122,
+  "game_id": 1,
+  "timestamp": "10:48",
+  "team": "Dallas Mavericks",
+  "player_id": 15,
+  "player_name": "Derrick Jones Jr.",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by D. Jones"
+},
+{
+  "_id": {
+    "$oid": "66905b1c0be1e2081d9045c7"
+  },
+  "event_id": 123,
+  "game_id": 1,
+  "timestamp": "10:46",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "2-pt shot missed",
+  "description": "L. Doncic misses 2-pt jump shot from 4 ft"
+},
+{
+  "_id": {
+    "$oid": "66905b1c0be1e2081d9045c8"
+  },
+  "event_id": 124,
+  "game_id": 1,
+  "timestamp": "10:15",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by P. Washington"
+},
+{
+  "_id": {
+    "$oid": "66905b1c0be1e2081d9045c9"
+  },
+  "event_id": 125,
+  "game_id": 1,
+  "timestamp": "10:06",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "2-pt shot made",
+  "description": "K. Irving makes 2-pt jump shot from 10 ft"
+},
+{
+  "_id": {
+    "$oid": "66905b1c0be1e2081d9045ca"
+  },
+  "event_id": 126,
+  "game_id": 1,
+  "timestamp": "9:47",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "3-pt shot missed",
+  "description": "K. Irving misses 3-pt jump shot from 31 ft"
+},
+{
+  "_id": {
+    "$oid": "66905b1c0be1e2081d9045cb"
+  },
+  "event_id": 127,
+  "game_id": 1,
+  "timestamp": "9:22",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by L. Doncic"
+},
+{
+  "_id": {
+    "$oid": "66905b1c0be1e2081d9045cc"
+  },
+  "event_id": 128,
+  "game_id": 1,
+  "timestamp": "9:11",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "2-pt shot missed",
+  "description": "K. Irving misses 2-pt jump shot from 10 ft"
+},
+{
+  "_id": {
+    "$oid": "66905b1c0be1e2081d9045cd"
+  },
+  "event_id": 129,
+  "game_id": 1,
+  "timestamp": "8:59",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by L. Doncic"
+},
+{
+  "_id": {
+    "$oid": "66905b1c0be1e2081d9045ce"
+  },
+  "event_id": 130,
+  "game_id": 1,
+  "timestamp": "8:48",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "2-pt shot missed",
+  "description": "L. Doncic misses 2-pt jump shot from 26 ft"
+},
+{
+  "_id": {
+    "$oid": "66905b1c0be1e2081d9045cf"
+  },
+  "event_id": 131,
+  "game_id": 1,
+  "timestamp": "8:46",
+  "team": "Boston Celtics",
+  "player_id": 5,
+  "player_name": "Al Horford",
+  "event": "block",
+  "description": "Block by A. Horford"
+},
+{
+  "_id": {
+    "$oid": "66905b1c0be1e2081d9045d0"
+  },
+  "event_id": 132,
+  "game_id": 1,
+  "timestamp": "8:44",
+  "team": "Dallas Mavericks",
+  "player_id": 19,
+  "player_name": "Dereck Lively II",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by D. Lively"
+},
+{
+  "_id": {
+    "$oid": "66905b1c0be1e2081d9045d1"
+  },
+  "event_id": 133,
+  "game_id": 1,
+  "timestamp": "8:27",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "turnover",
+  "description": "Turnover by K. Irving (lost ball; steal by J. Holiday)"
+},
+{
+  "_id": {
+    "$oid": "66905ba90be1e2081d9045d3"
+  },
+  "event_id": 134,
+  "game_id": 1,
+  "timestamp": "8:10",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "2-pt shot made",
+  "description": "K. Irving makes 2-pt layup from 2 ft"
+},
+{
+  "_id": {
+    "$oid": "66905ba90be1e2081d9045d4"
+  },
+  "event_id": 135,
+  "game_id": 1,
+  "timestamp": "7:50",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "2-pt shot made",
+  "description": "P. Washington makes 2-pt layup from 2 ft"
+},
+{
+  "_id": {
+    "$oid": "66905ba90be1e2081d9045d5"
+  },
+  "event_id": 136,
+  "game_id": 1,
+  "timestamp": "7:19",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by L. Doncic"
+},
+{
+  "_id": {
+    "$oid": "66905ba90be1e2081d9045d6"
+  },
+  "event_id": 137,
+  "game_id": 1,
+  "timestamp": "7:07",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "2-pt shot made",
+  "description": "L. Doncic makes 2-pt layup from 3 ft"
+},
+{
+  "_id": {
+    "$oid": "66905ba90be1e2081d9045d7"
+  },
+  "event_id": 138,
+  "game_id": 1,
+  "timestamp": "6:54",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "2-pt shot missed",
+  "description": "P. Washington misses 2-pt layup from 4 ft"
+},
+{
+  "_id": {
+    "$oid": "66905ba90be1e2081d9045d8"
+  },
+  "event_id": 139,
+  "game_id": 1,
+  "timestamp": "6:40",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "offensive rebound",
+  "description": "Offensive rebound by P. Washington"
+},
+{
+  "_id": {
+    "$oid": "66905ba90be1e2081d9045d9"
+  },
+  "event_id": 140,
+  "game_id": 1,
+  "timestamp": "6:40",
+  "team": "Boston Celtics",
+  "player_id": 3,
+  "player_name": "Derrick White",
+  "event": "personal foul",
+  "description": "Shooting foul by D. White"
+},
+{
+  "_id": {
+    "$oid": "66905ba90be1e2081d9045da"
+  },
+  "event_id": 141,
+  "game_id": 1,
+  "timestamp": "6:40",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "drawn foul",
+  "description": "Foul drawn by P. Washington"
+},
+{
+  "_id": {
+    "$oid": "66905ba90be1e2081d9045db"
+  },
+  "event_id": 142,
+  "game_id": 1,
+  "timestamp": "6:40",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "free throw made",
+  "description": "P. Washington makes free throw 1 of 2"
+},
+{
+  "_id": {
+    "$oid": "66905ba90be1e2081d9045dc"
+  },
+  "event_id": 143,
+  "game_id": 1,
+  "timestamp": "6:40",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "free throw made",
+  "description": "P. Washington makes free throw 2 of 2"
+},
+{
+  "_id": {
+    "$oid": "66905ba90be1e2081d9045dd"
+  },
+  "event_id": 144,
+  "game_id": 1,
+  "timestamp": "6:29",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "3-pt shot made",
+  "description": "L. Doncic makes 3-pt jump shot from 28 ft"
+},
+{
+  "_id": {
+    "$oid": "66905ba90be1e2081d9045de"
+  },
+  "event_id": 145,
+  "game_id": 1,
+  "timestamp": "5:46",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by L. Doncic"
+},
+{
+  "_id": {
+    "$oid": "66905ba90be1e2081d9045df"
+  },
+  "event_id": 146,
+  "game_id": 1,
+  "timestamp": "5:38",
+  "team": "Dallas Mavericks",
+  "player_id": 15,
+  "player_name": "Derrick Jones Jr.",
+  "event": "2-pt shot missed",
+  "description": "D. Jones misses 2-pt layup from 2 ft"
+},
+{
+  "_id": {
+    "$oid": "66905ba90be1e2081d9045e0"
+  },
+  "event_id": 147,
+  "game_id": 1,
+  "timestamp": "5:38",
+  "team": "Boston Celtics",
+  "player_id": 1,
+  "player_name": "Jayson Tatum",
+  "event": "block",
+  "description": "Block by J. Tatum"
+},
+{
+  "_id": {
+    "$oid": "66905ba90be1e2081d9045e1"
+  },
+  "event_id": 148,
+  "game_id": 1,
+  "timestamp": "5:33",
+  "team": "Dallas Mavericks",
+  "player_id": 19,
+  "player_name": "Dereck Lively II",
+  "event": "offensive rebound",
+  "description": "Offensive rebound by D. Lively"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045e3"
+  },
+  "event_id": 149,
+  "game_id": 1,
+  "timestamp": "5:00",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "2-pt shot made",
+  "description": "K. Irving makes 2-pt jump shot from 10 ft"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045e4"
+  },
+  "event_id": 150,
+  "game_id": 1,
+  "timestamp": "4:40",
+  "team": "Dallas Mavericks",
+  "player_id": "team",
+  "player_name": "Team",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by Team"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045e5"
+  },
+  "event_id": 151,
+  "game_id": 1,
+  "timestamp": "4:39",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "3-pt shot made",
+  "description": "L. Doncic makes 3-pt jump shot from 28 ft"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045e6"
+  },
+  "event_id": 152,
+  "game_id": 1,
+  "timestamp": "4:08",
+  "team": "Dallas Mavericks",
+  "player_id": 19,
+  "player_name": "Dereck Lively II",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by D. Lively"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045e7"
+  },
+  "event_id": 153,
+  "game_id": 1,
+  "timestamp": "4:07",
+  "team": "Dallas Mavericks",
+  "player_id": 19,
+  "player_name": "Dereck Lively II",
+  "event": "turnover",
+  "description": "Turnover by D. Lively (traveling)"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045e8"
+  },
+  "event_id": 154,
+  "game_id": 1,
+  "timestamp": "3:55",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by L. Doncic"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045e9"
+  },
+  "event_id": 155,
+  "game_id": 1,
+  "timestamp": "3:35",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "turnover",
+  "description": "Turnover by K. Irving (traveling)"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045ea"
+  },
+  "event_id": 156,
+  "game_id": 1,
+  "timestamp": "3:18",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "3-pt shot missed",
+  "description": "K. Irving misses 3-pt jump shot from 26 ft"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045eb"
+  },
+  "event_id": 157,
+  "game_id": 1,
+  "timestamp": "3:01",
+  "team": "Dallas Mavericks",
+  "player_id": 2,
+  "player_name": "Tim Hardaway Jr.",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by T. Hardaway"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045ec"
+  },
+  "event_id": 158,
+  "game_id": 1,
+  "timestamp": "2:34",
+  "team": "Dallas Mavericks",
+  "player_id": 15,
+  "player_name": "Derrick Jones Jr.",
+  "event": "2-pt shot missed",
+  "description": "D. Jones misses 2-pt dunk from 2 ft"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045ed"
+  },
+  "event_id": 159,
+  "game_id": 1,
+  "timestamp": "2:33",
+  "team": "Dallas Mavericks",
+  "player_id": 15,
+  "player_name": "Derrick Jones Jr.",
+  "event": "offensive rebound",
+  "description": "Offensive rebound by D. Jones"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045ee"
+  },
+  "event_id": 160,
+  "game_id": 1,
+  "timestamp": "2:26",
+  "team": "Dallas Mavericks",
+  "player_id": 15,
+  "player_name": "Derrick Jones Jr.",
+  "event": "2-pt shot missed",
+  "description": "D. Jones misses 2-pt dunk from 5 ft"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045ef"
+  },
+  "event_id": 161,
+  "game_id": 1,
+  "timestamp": "2:22",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by L. Doncic"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045f0"
+  },
+  "event_id": 162,
+  "game_id": 1,
+  "timestamp": "5:12",
+  "team": "Boston Celtics",
+  "player_id": 4,
+  "player_name": "Jrue Holiday",
+  "event": "turnover",
+  "description": "Turnover by K. Porzingis (lost ball; steal by L. Doncic)"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045f1"
+  },
+  "event_id": 163,
+  "game_id": 1,
+  "timestamp": "5:12",
+  "team": "Boston Celtics",
+  "player_id": 4,
+  "player_name": "Jrue Holiday",
+  "event": "3-pt shot missed",
+  "description": "J. Holiday misses 3-pt jump shot from 24 ft"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045f2"
+  },
+  "event_id": 164,
+  "game_id": 1,
+  "timestamp": "4:50",
+  "team": "Boston Celtics",
+  "player_id": 3,
+  "player_name": "Derrick White",
+  "event": "personal foul",
+  "description": "Loose ball foul by D. White (drawn by P. Washington)"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045f3"
+  },
+  "event_id": 165,
+  "game_id": 1,
+  "timestamp": "4:30",
+  "team": "Boston Celtics",
+  "player_id": 5,
+  "player_name": "Al Horford",
+  "event": "2-pt shot made",
+  "description": "J. Tatum makes 2-pt layup from 5 ft"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045f4"
+  },
+  "event_id": 166,
+  "game_id": 1,
+  "timestamp": "4:20",
+  "team": "Boston Celtics",
+  "player_id": 6,
+  "player_name": "Kristaps Porzingis",
+  "event": "shooting foul",
+  "description": "Shooting foul by D. Lively (drawn by J. Brown)"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045f5"
+  },
+  "event_id": 167,
+  "game_id": 1,
+  "timestamp": "4:20",
+  "team": "Boston Celtics",
+  "player_id": 2,
+  "player_name": "Jaylen Brown",
+  "event": "free throw made",
+  "description": "J. Brown makes free throw 1 of 2"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045f6"
+  },
+  "event_id": 168,
+  "game_id": 1,
+  "timestamp": "4:20",
+  "team": "Boston Celtics",
+  "player_id": 2,
+  "player_name": "Jaylen Brown",
+  "event": "free throw made",
+  "description": "J. Brown makes free throw 2 of 2"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045f7"
+  },
+  "event_id": 169,
+  "game_id": 1,
+  "timestamp": "3:55",
+  "team": "Boston Celtics",
+  "player_id": 6,
+  "player_name": "Kristaps Porzingis",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by K. Porzingis"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045f8"
+  },
+  "event_id": 170,
+  "game_id": 1,
+  "timestamp": "3:55",
+  "team": "Boston Celtics",
+  "player_id": 6,
+  "player_name": "Kristaps Porzingis",
+  "event": "offensive rebound",
+  "description": "Offensive rebound by J. Tatum"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045f9"
+  },
+  "event_id": 171,
+  "game_id": 1,
+  "timestamp": "3:55",
+  "team": "Boston Celtics",
+  "player_id": 6,
+  "player_name": "Kristaps Porzingis",
+  "event": "2-pt shot made",
+  "description": "K. Porzingis makes 2-pt dunk from 3 ft"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045fa"
+  },
+  "event_id": 172,
+  "game_id": 1,
+  "timestamp": "3:55",
+  "team": "Boston Celtics",
+  "player_id": 1,
+  "player_name": "Jayson Tatum",
+  "event": "assist",
+  "description": "Assist by J. Tatum"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045fb"
+  },
+  "event_id": 173,
+  "game_id": 1,
+  "timestamp": "2:35",
+  "team": "Boston Celtics",
+  "player_id": 1,
+  "player_name": "Jayson Tatum",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by J. Tatum"
+},
+{
+  "_id": {
+    "$oid": "66905c840be1e2081d9045fc"
+  },
+  "event_id": 174,
+  "game_id": 1,
+  "timestamp": "2:35",
+  "team": "Boston Celtics",
+  "player_id": 5,
+  "player_name": "Al Horford",
+  "event": "2-pt shot missed",
+  "description": "A. Horford misses 3-pt jump shot from 26 ft"
+},
+{
+  "_id": {
+    "$oid": "66905d0c0be1e2081d9045fe"
+  },
+  "event_id": 175,
+  "game_id": 1,
+  "timestamp": "2:19",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by L. Doncic"
+},
+{
+  "_id": {
+    "$oid": "66905d0c0be1e2081d9045ff"
+  },
+  "event_id": 176,
+  "game_id": 1,
+  "timestamp": "2:11",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "3-pt shot missed",
+  "description": "L. Doncic misses 3-pt jump shot from 28 ft"
+},
+{
+  "_id": {
+    "$oid": "66905d0c0be1e2081d904600"
+  },
+  "event_id": 177,
+  "game_id": 1,
+  "timestamp": "1:51",
+  "team": "Boston Celtics",
+  "player_id": "team",
+  "player_name": "Team",
+  "event": "offensive rebound",
+  "description": "Offensive rebound by Team"
+},
+{
+  "_id": {
+    "$oid": "66905d0c0be1e2081d904601"
+  },
+  "event_id": 178,
+  "game_id": 1,
+  "timestamp": "1:51",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "3-pt shot missed",
+  "description": "L. Doncic misses 3-pt jump shot from 26 ft"
+},
+{
+  "_id": {
+    "$oid": "66905d0c0be1e2081d904602"
+  },
+  "event_id": 179,
+  "game_id": 1,
+  "timestamp": "1:37",
+  "team": "Dallas Mavericks",
+  "player_id": 16,
+  "player_name": "Daniel Gafford",
+  "event": "enter",
+  "description": "D. Gafford enters the game for L. Doncic"
+},
+{
+  "_id": {
+    "$oid": "66905d0c0be1e2081d904603"
+  },
+  "event_id": 180,
+  "game_id": 1,
+  "timestamp": "1:37",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "enter",
+  "description": "K. Irving enters the game for P. Washington"
+},
+{
+  "_id": {
+    "$oid": "66905d0c0be1e2081d904604"
+  },
+  "event_id": 181,
+  "game_id": 1,
+  "timestamp": "1:13",
+  "team": "Boston Celtics",
+  "player_id": 5,
+  "player_name": "Al Horford",
+  "event": "3-pt shot made",
+  "description": "A. Horford makes 3-pt jump shot from 23 ft"
+},
+{
+  "_id": {
+    "$oid": "66905d0c0be1e2081d904605"
+  },
+  "event_id": 182,
+  "game_id": 1,
+  "timestamp": "1:00",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "2-pt shot missed",
+  "description": "K. Irving misses 2-pt layup from 3 ft"
+},
+{
+  "_id": {
+    "$oid": "66905d0c0be1e2081d904606"
+  },
+  "event_id": 183,
+  "game_id": 1,
+  "timestamp": "0:59",
+  "team": "Boston Celtics",
+  "player_id": "team",
+  "player_name": "Team",
+  "event": "offensive rebound",
+  "description": "Offensive rebound by Team"
+},
+{
+  "_id": {
+    "$oid": "66905d0c0be1e2081d904607"
+  },
+  "event_id": 184,
+  "game_id": 1,
+  "timestamp": "0:51",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "2-pt shot missed",
+  "description": "K. Irving misses 2-pt layup from 3 ft"
+},
+{
+  "_id": {
+    "$oid": "66905d0c0be1e2081d904608"
+  },
+  "event_id": 185,
+  "game_id": 1,
+  "timestamp": "0:34",
+  "team": "Dallas Mavericks",
+  "player_id": 2,
+  "player_name": "Tim Hardaway Jr.",
+  "event": "2-pt shot missed",
+  "description": "T. Hardaway misses 2-pt jump shot from 16 ft"
+},
+{
+  "_id": {
+    "$oid": "66905d0c0be1e2081d904609"
+  },
+  "event_id": 186,
+  "game_id": 1,
+  "timestamp": "0:14",
+  "team": "Dallas Mavericks",
+  "player_id": 16,
+  "player_name": "Daniel Gafford",
+  "event": "offensive rebound",
+  "description": "Offensive rebound by D. Gafford"
+},
+{
+  "_id": {
+    "$oid": "66905d0c0be1e2081d90460a"
+  },
+  "event_id": 187,
+  "game_id": 1,
+  "timestamp": "0:14",
+  "team": "Boston Celtics",
+  "player_id": 7,
+  "player_name": "Sam Hauser",
+  "event": "shooting foul",
+  "description": "Shooting foul by S. Hauser"
+},
+{
+  "_id": {
+    "$oid": "66905d0c0be1e2081d90460b"
+  },
+  "event_id": 188,
+  "game_id": 1,
+  "timestamp": "0:14",
+  "team": "Dallas Mavericks",
+  "player_id": 16,
+  "player_name": "Daniel Gafford",
+  "event": "drawn foul",
+  "description": "Foul drawn by D. Gafford"
+},
+{
+  "_id": {
+    "$oid": "66905d0c0be1e2081d90460c"
+  },
+  "event_id": 189,
+  "game_id": 1,
+  "timestamp": "0:14",
+  "team": "Dallas Mavericks",
+  "player_id": 16,
+  "player_name": "Daniel Gafford",
+  "event": "free throw made",
+  "description": "D. Gafford makes free throw 1 of 2"
+},
+{
+  "_id": {
+    "$oid": "66905d0c0be1e2081d90460d"
+  },
+  "event_id": 190,
+  "game_id": 1,
+  "timestamp": "0:14",
+  "team": "Dallas Mavericks",
+  "player_id": 17,
+  "player_name": "Josh Green",
+  "event": "enter",
+  "description": "J. Green enters the game for K. Irving"
+},
+{
+  "_id": {
+    "$oid": "66905d0c0be1e2081d90460e"
+  },
+  "event_id": 191,
+  "game_id": 1,
+  "timestamp": "0:14",
+  "team": "Dallas Mavericks",
+  "player_id": 16,
+  "player_name": "Daniel Gafford",
+  "event": "free throw made",
+  "description": "D. Gafford makes free throw 2 of 2"
+},
+{
+  "_id": {
+    "$oid": "66905d0c0be1e2081d90460f"
+  },
+  "event_id": 192,
+  "game_id": 1,
+  "timestamp": "0:00",
+  "team": "Dallas Mavericks",
+  "player_id": 15,
+  "player_name": "Derrick Jones Jr.",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by D. Jones"
+},
+{
+  "_id": {
+    "$oid": "66905e150be1e2081d904611"
+  },
+  "event_id": 193,
+  "game_id": 1,
+  "timestamp": "11:39",
+  "team": "Dallas Mavericks",
+  "player_id": 15,
+  "player_name": "Derrick Jones Jr.",
+  "event": "2-pt shot missed",
+  "description": "D. Jones misses 2-pt dunk from 4 ft (block by K. Porzingis)"
+},
+{
+  "_id": {
+    "$oid": "66905e150be1e2081d904612"
+  },
+  "event_id": 194,
+  "game_id": 1,
+  "timestamp": "11:18",
+  "team": "Dallas Mavericks",
+  "player_id": 15,
+  "player_name": "Derrick Jones Jr.",
+  "event": "offensive rebound",
+  "description": "Offensive rebound by D. Jones"
+},
+{
+  "_id": {
+    "$oid": "66905e150be1e2081d904613"
+  },
+  "event_id": 195,
+  "game_id": 1,
+  "timestamp": "11:16",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "2-pt shot made",
+  "description": "P. Washington makes 2-pt layup from 1 ft (assist by M. Kleber)"
+},
+{
+  "_id": {
+    "$oid": "66905e150be1e2081d904614"
+  },
+  "event_id": 196,
+  "game_id": 1,
+  "timestamp": "11:00",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by K. Irving"
+},
+{
+  "_id": {
+    "$oid": "66905e150be1e2081d904615"
+  },
+  "event_id": 197,
+  "game_id": 1,
+  "timestamp": "10:46",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "2-pt shot made",
+  "description": "L. Doncic makes 2-pt layup from 4 ft"
+},
+{
+  "_id": {
+    "$oid": "66905e150be1e2081d904616"
+  },
+  "event_id": 198,
+  "game_id": 1,
+  "timestamp": "10:37",
+  "team": "Boston Celtics",
+  "player_id": 2,
+  "player_name": "Jaylen Brown",
+  "event": "shooting foul",
+  "description": "Shooting foul by J. Brown (drawn by L. Doncic)"
+},
+{
+  "_id": {
+    "$oid": "66905e150be1e2081d904617"
+  },
+  "event_id": 199,
+  "game_id": 1,
+  "timestamp": "10:37",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "free throw missed",
+  "description": "L. Doncic misses free throw 1 of 1"
+},
+{
+  "_id": {
+    "$oid": "66905e150be1e2081d904618"
+  },
+  "event_id": 200,
+  "game_id": 1,
+  "timestamp": "10:08",
+  "team": "Dallas Mavericks",
+  "player_id": 15,
+  "player_name": "Derrick Jones Jr.",
+  "event": "2-pt shot made",
+  "description": "D. Jones makes 2-pt layup from 2 ft"
+},
+{
+  "_id": {
+    "$oid": "66905e150be1e2081d904619"
+  },
+  "event_id": 201,
+  "game_id": 1,
+  "timestamp": "9:55",
+  "team": "Dallas Mavericks",
+  "player_id": 15,
+  "player_name": "Derrick Jones Jr.",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by D. Jones"
+},
+{
+  "_id": {
+    "$oid": "66905e150be1e2081d90461a"
+  },
+  "event_id": 202,
+  "game_id": 1,
+  "timestamp": "9:39",
+  "team": "Boston Celtics",
+  "player_id": 3,
+  "player_name": "Derrick White",
+  "event": "shooting foul",
+  "description": "Shooting foul by D. White (drawn by L. Doncic)"
+},
+{
+  "_id": {
+    "$oid": "66905e150be1e2081d90461b"
+  },
+  "event_id": 203,
+  "game_id": 1,
+  "timestamp": "9:39",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "free throw made",
+  "description": "L. Doncic makes free throw 1 of 2"
+},
+{
+  "_id": {
+    "$oid": "66905e150be1e2081d90461c"
+  },
+  "event_id": 204,
+  "game_id": 1,
+  "timestamp": "9:39",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "free throw made",
+  "description": "L. Doncic makes free throw 2 of 2"
+},
+{
+  "_id": {
+    "$oid": "66905e150be1e2081d90461d"
+  },
+  "event_id": 205,
+  "game_id": 1,
+  "timestamp": "9:37",
+  "team": "Boston Celtics",
+  "player_id": "team",
+  "player_name": "Team",
+  "event": "offensive rebound",
+  "description": "Offensive rebound by Team"
+},
+{
+  "_id": {
+    "$oid": "66905e150be1e2081d90461e"
+  },
+  "event_id": 206,
+  "game_id": 1,
+  "timestamp": "9:30",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "3-pt shot missed",
+  "description": "L. Doncic misses 3-pt jump shot from 27 ft"
+},
+{
+  "_id": {
+    "$oid": "66905e150be1e2081d90461f"
+  },
+  "event_id": 207,
+  "game_id": 1,
+  "timestamp": "9:30",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "2-pt shot missed",
+  "description": "P. Washington misses 2-pt jump shot from 23 ft"
+},
+{
+  "_id": {
+    "$oid": "66905e150be1e2081d904620"
+  },
+  "event_id": 208,
+  "game_id": 1,
+  "timestamp": "9:30",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by K. Irving"
+},
+{
+  "_id": {
+    "$oid": "66905e150be1e2081d904621"
+  },
+  "event_id": 209,
+  "game_id": 1,
+  "timestamp": "9:18",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "turnover",
+  "description": "Turnover by L. Doncic (lost ball; steal by D. White)"
+},
+{
+  "_id": {
+    "$oid": "66905e150be1e2081d904622"
+  },
+  "event_id": 210,
+  "game_id": 1,
+  "timestamp": "8:59",
+  "team": "Dallas Mavericks",
+  "player_id": 13,
+  "player_name": "Kyrie Irving",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by K. Irving"
+},
+{
+  "_id": {
+    "$oid": "66905e150be1e2081d904623"
+  },
+  "event_id": 211,
+  "game_id": 1,
+  "timestamp": "8:59",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "3-pt shot missed",
+  "description": "L. Doncic misses 3-pt jump shot from 26 ft"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d904625"
+  },
+  "event_id": 212,
+  "game_id": 1,
+  "timestamp": "8:17",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "2-pt shot missed",
+  "description": "L. Doncic misses 2-pt jump shot from 14 ft"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d904626"
+  },
+  "event_id": 213,
+  "game_id": 1,
+  "timestamp": "8:15",
+  "team": "Dallas Mavericks",
+  "player_id": 19,
+  "player_name": "Dereck Lively II",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by D. Lively"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d904627"
+  },
+  "event_id": 214,
+  "game_id": 1,
+  "timestamp": "7:34",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "2-pt shot missed",
+  "description": "P. Washington misses 2-pt jump shot from 8 ft"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d904628"
+  },
+  "event_id": 215,
+  "game_id": 1,
+  "timestamp": "7:30",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "offensive rebound",
+  "description": "Offensive rebound by P. Washington"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d904629"
+  },
+  "event_id": 216,
+  "game_id": 1,
+  "timestamp": "7:03",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "2-pt shot made",
+  "description": "P. Washington makes 2-pt layup from 3 ft"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d90462a"
+  },
+  "event_id": 217,
+  "game_id": 1,
+  "timestamp": "7:03",
+  "team": "Dallas Mavericks",
+  "player_id": 18,
+  "player_name": "Maxi Kleber",
+  "event": "assist",
+  "description": "Assist by M. Kleber"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d90462b"
+  },
+  "event_id": 218,
+  "game_id": 1,
+  "timestamp": "6:51",
+  "team": "Dallas Mavericks",
+  "player_id": 19,
+  "player_name": "Dereck Lively II",
+  "event": "2-pt shot made",
+  "description": "D. Lively makes 2-pt dunk from 2 ft"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d90462c"
+  },
+  "event_id": 219,
+  "game_id": 1,
+  "timestamp": "6:51",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "assist",
+  "description": "Assist by P. Washington"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d90462d"
+  },
+  "event_id": 220,
+  "game_id": 1,
+  "timestamp": "6:24",
+  "team": "Boston Celtics",
+  "player_id": 1,
+  "player_name": "Jayson Tatum",
+  "event": "2-pt shot made",
+  "description": "J. Tatum makes 2-pt jump shot from 19 ft"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d90462e"
+  },
+  "event_id": 221,
+  "game_id": 1,
+  "timestamp": "6:24",
+  "team": "Boston Celtics",
+  "player_id": 1,
+  "player_name": "Jayson Tatum",
+  "event": "2-pt shot made",
+  "description": "J. Tatum makes 2-pt jump shot from 21 ft"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d90462f"
+  },
+  "event_id": 222,
+  "game_id": 1,
+  "timestamp": "6:09",
+  "team": "Dallas Mavericks",
+  "player_id": 19,
+  "player_name": "Dereck Lively II",
+  "event": "free throw missed",
+  "description": "D. Lively misses free throw 1 of 2"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d904630"
+  },
+  "event_id": 223,
+  "game_id": 1,
+  "timestamp": "6:09",
+  "team": "Dallas Mavericks",
+  "player_id": "team",
+  "player_name": "Team",
+  "event": "offensive rebound",
+  "description": "Offensive rebound by Team"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d904631"
+  },
+  "event_id": 224,
+  "game_id": 1,
+  "timestamp": "6:09",
+  "team": "Dallas Mavericks",
+  "player_id": 19,
+  "player_name": "Dereck Lively II",
+  "event": "free throw made",
+  "description": "D. Lively makes free throw 2 of 2"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d904632"
+  },
+  "event_id": 225,
+  "game_id": 1,
+  "timestamp": "5:29",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "2-pt shot missed",
+  "description": "L. Doncic misses 2-pt jump shot from 8 ft"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d904633"
+  },
+  "event_id": 226,
+  "game_id": 1,
+  "timestamp": "5:17",
+  "team": "Boston Celtics",
+  "player_id": 4,
+  "player_name": "Jrue Holiday",
+  "event": "3-pt shot made",
+  "description": "J. Holiday makes 3-pt jump shot from 24 ft"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d904634"
+  },
+  "event_id": 227,
+  "game_id": 1,
+  "timestamp": "5:17",
+  "team": "Boston Celtics",
+  "player_id": 5,
+  "player_name": "Al Horford",
+  "event": "assist",
+  "description": "Assist by A. Horford"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d904635"
+  },
+  "event_id": 228,
+  "game_id": 1,
+  "timestamp": "5:17",
+  "team": "Boston Celtics",
+  "player_id": 5,
+  "player_name": "Al Horford",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by A. Horford"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d904636"
+  },
+  "event_id": 229,
+  "game_id": 1,
+  "timestamp": "5:17",
+  "team": "Boston Celtics",
+  "player_id": 2,
+  "player_name": "Jaylen Brown",
+  "event": "free throw made",
+  "description": "J. Brown makes free throw 1 of 3"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d904637"
+  },
+  "event_id": 230,
+  "game_id": 1,
+  "timestamp": "5:17",
+  "team": "Boston Celtics",
+  "player_id": 2,
+  "player_name": "Jaylen Brown",
+  "event": "free throw made",
+  "description": "J. Brown makes free throw 2 of 3"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d904638"
+  },
+  "event_id": 231,
+  "game_id": 1,
+  "timestamp": "5:17",
+  "team": "Boston Celtics",
+  "player_id": "team",
+  "player_name": "Team",
+  "event": "offensive rebound",
+  "description": "Offensive rebound by Team"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d904639"
+  },
+  "event_id": 232,
+  "game_id": 1,
+  "timestamp": "5:17",
+  "team": "Boston Celtics",
+  "player_id": 2,
+  "player_name": "Jaylen Brown",
+  "event": "free throw made",
+  "description": "J. Brown makes free throw 3 of 3"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d90463a"
+  },
+  "event_id": 233,
+  "game_id": 1,
+  "timestamp": "5:17",
+  "team": "Boston Celtics",
+  "player_id": 2,
+  "player_name": "Jaylen Brown",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by J. Brown"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d90463b"
+  },
+  "event_id": 234,
+  "game_id": 1,
+  "timestamp": "8:17",
+  "team": "Dallas Mavericks",
+  "player_id": 12,
+  "player_name": "Luka Doncic",
+  "event": "2-pt shot missed",
+  "description": "L. Doncic misses 2-pt jump shot from 14 ft"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d90463c"
+  },
+  "event_id": 235,
+  "game_id": 1,
+  "timestamp": "8:15",
+  "team": "Dallas Mavericks",
+  "player_id": 19,
+  "player_name": "Dereck Lively II",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by D. Lively"
+},
+{
+  "_id": {
+    "$oid": "66905ec90be1e2081d90463d"
+  },
+  "event_id": 236,
+  "game_id": 1,
+  "timestamp": "7:34",
+  "team": "Dallas Mavericks",
+  "player_id": 14,
+  "player_name": "P.J. Washington Jr.",
+  "event": "2-pt shot missed",
+  "description": "P. Washington misses 2-pt jump shot from 8 ft"
+},
+{
+  "_id": {
+    "$oid": "66905f9c0be1e2081d90463f"
+  },
+  "event_id": 237,
+  "game_id": 1,
+  "timestamp": "5:01",
+  "team": "Dallas Mavericks",
+  "player_id": 20,
+  "player_name": "Jaden Hardy",
+  "event": "3-pt shot missed",
+  "description": "J. Hardy misses 3-pt jump shot from 25 ft"
+},
+{
+  "_id": {
+    "$oid": "66905f9c0be1e2081d904640"
+  },
+  "event_id": 238,
+  "game_id": 1,
+  "timestamp": "4:49",
+  "team": "Boston Celtics",
+  "player_id": 2,
+  "player_name": "Jaylen Brown",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by J. Brown"
+},
+{
+  "_id": {
+    "$oid": "66905f9c0be1e2081d904641"
+  },
+  "event_id": 239,
+  "game_id": 1,
+  "timestamp": "4:58",
+  "team": "Dallas Mavericks",
+  "player_id": 21,
+  "player_name": "Tim Hardaway Jr.",
+  "event": "2-pt shot missed",
+  "description": "T. Hardaway misses 2-pt jump shot from 25 ft"
+},
+{
+  "_id": {
+    "$oid": "66905f9c0be1e2081d904642"
+  },
+  "event_id": 240,
+  "game_id": 1,
+  "timestamp": "4:26",
+  "team": "Dallas Mavericks",
+  "player_id": 20,
+  "player_name": "Jaden Hardy",
+  "event": "3-pt shot made",
+  "description": "J. Hardy makes 3-pt jump shot from 27 ft"
+},
+{
+  "_id": {
+    "$oid": "66905f9c0be1e2081d904643"
+  },
+  "event_id": 241,
+  "game_id": 1,
+  "timestamp": "4:26",
+  "team": "Dallas Mavericks",
+  "player_id": 22,
+  "player_name": "Dante Exum",
+  "event": "assist",
+  "description": "Assist by D. Exum"
+},
+{
+  "_id": {
+    "$oid": "66905f9c0be1e2081d904644"
+  },
+  "event_id": 242,
+  "game_id": 1,
+  "timestamp": "4:08",
+  "team": "Dallas Mavericks",
+  "player_id": 20,
+  "player_name": "Jaden Hardy",
+  "event": "personal foul",
+  "description": "Personal foul by J. Hardy"
+},
+{
+  "_id": {
+    "$oid": "66905f9c0be1e2081d904645"
+  },
+  "event_id": 243,
+  "game_id": 1,
+  "timestamp": "4:08",
+  "team": "Boston Celtics",
+  "player_id": 1,
+  "player_name": "Jayson Tatum",
+  "event": "foul drawn",
+  "description": "Drawn by J. Tatum"
+},
+{
+  "_id": {
+    "$oid": "66905f9c0be1e2081d904646"
+  },
+  "event_id": 244,
+  "game_id": 1,
+  "timestamp": "3:52",
+  "team": "Boston Celtics",
+  "player_id": 2,
+  "player_name": "Jaylen Brown",
+  "event": "2-pt shot missed",
+  "description": "J. Brown misses 2-pt jump shot from 21 ft"
+},
+{
+  "_id": {
+    "$oid": "66905f9c0be1e2081d904647"
+  },
+  "event_id": 245,
+  "game_id": 1,
+  "timestamp": "3:45",
+  "team": "Dallas Mavericks",
+  "player_id": 20,
+  "player_name": "Jaden Hardy",
+  "event": "2-pt shot made",
+  "description": "J. Hardy makes 2-pt layup from 2 ft"
+},
+{
+  "_id": {
+    "$oid": "66905f9c0be1e2081d904648"
+  },
+  "event_id": 246,
+  "game_id": 1,
+  "timestamp": "3:19",
+  "team": "Dallas Mavericks",
+  "player_id": 22,
+  "player_name": "Dante Exum",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by D. Exum"
+},
+{
+  "_id": {
+    "$oid": "66905f9c0be1e2081d904649"
+  },
+  "event_id": 247,
+  "game_id": 1,
+  "timestamp": "3:09",
+  "team": "Dallas Mavericks",
+  "player_id": 21,
+  "player_name": "Tim Hardaway Jr.",
+  "event": "2-pt shot missed",
+  "description": "T. Hardaway misses 2-pt jump shot from 25 ft"
+},
+{
+  "_id": {
+    "$oid": "66905f9c0be1e2081d90464a"
+  },
+  "event_id": 248,
+  "game_id": 1,
+  "timestamp": "3:00",
+  "team": "Boston Celtics",
+  "player_id": 2,
+  "player_name": "Jaylen Brown",
+  "event": "free throw made",
+  "description": "J. Brown makes free throw 1 of 2"
+},
+{
+  "_id": {
+    "$oid": "66905f9c0be1e2081d90464b"
+  },
+  "event_id": 249,
+  "game_id": 1,
+  "timestamp": "2:47",
+  "team": "Dallas Mavericks",
+  "player_id": 20,
+  "player_name": "Jaden Hardy",
+  "event": "2-pt shot missed",
+  "description": "J. Hardy misses 2-pt jump shot from 21 ft"
+},
+{
+  "_id": {
+    "$oid": "66905f9c0be1e2081d90464c"
+  },
+  "event_id": 250,
+  "game_id": 1,
+  "timestamp": "2:46",
+  "team": "Dallas Mavericks",
+  "player_id": 20,
+  "player_name": "Jaden Hardy",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by J. Hardy"
+},
+{
+  "_id": {
+    "$oid": "66905f9c0be1e2081d90464d"
+  },
+  "event_id": 251,
+  "game_id": 1,
+  "timestamp": "2:40",
+  "team": "Boston Celtics",
+  "player_id": 2,
+  "player_name": "Jaylen Brown",
+  "event": "shooting foul",
+  "description": "Shooting foul by D. Powell"
+},
+{
+  "_id": {
+    "$oid": "66905f9c0be1e2081d90464e"
+  },
+  "event_id": 252,
+  "game_id": 1,
+  "timestamp": "2:40",
+  "team": "Boston Celtics",
+  "player_id": 1,
+  "player_name": "Jayson Tatum",
+  "event": "foul drawn",
+  "description": "Drawn by J. Tatum"
+},
+{
+  "_id": {
+    "$oid": "66905f9c0be1e2081d90464f"
+  },
+  "event_id": 253,
+  "game_id": 1,
+  "timestamp": "2:40",
+  "team": "Boston Celtics",
+  "player_id": 1,
+  "player_name": "Jayson Tatum",
+  "event": "free throw made",
+  "description": "J. Tatum makes free throw 1 of 2"
+},
+{
+  "_id": {
+    "$oid": "66905f9c0be1e2081d904650"
+  },
+  "event_id": 254,
+  "game_id": 1,
+  "timestamp": "2:40",
+  "team": "Boston Celtics",
+  "player_id": 1,
+  "player_name": "Jayson Tatum",
+  "event": "free throw missed",
+  "description": "J. Tatum misses free throw 2 of 2"
+},
+{
+  "_id": {
+    "$oid": "66905f9c0be1e2081d904651"
+  },
+  "event_id": 255,
+  "game_id": 1,
+  "timestamp": "2:40",
+  "team": "Boston Celtics",
+  "player_id": 6,
+  "player_name": "Sam Hauser",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by S. Hauser"
+},
+{
+  "_id": {
+    "$oid": "66905f9c0be1e2081d904652"
+  },
+  "event_id": 256,
+  "game_id": 1,
+  "timestamp": "2:40",
+  "team": "Dallas Mavericks",
+  "player_id": 19,
+  "player_name": "Dereck Lively II",
+  "event": "offensive rebound",
+  "description": "Offensive rebound by D. Lively"
+},
+{
+  "_id": {
+    "$oid": "66905f9c0be1e2081d904653"
+  },
+  "event_id": 257,
+  "game_id": 1,
+  "timestamp": "2:40",
+  "team": "Boston Celtics",
+  "player_id": 4,
+  "player_name": "Jrue Holiday",
+  "event": "free throw made",
+  "description": "J. Holiday makes free throw 2 of 2"
+},
+{
+  "_id": {
+    "$oid": "66905f9c0be1e2081d904654"
+  },
+  "event_id": 258,
+  "game_id": 1,
+  "timestamp": "2:30",
+  "team": "Dallas Mavericks",
+  "player_id": 22,
+  "player_name": "Dante Exum",
+  "event": "turnover",
+  "description": "Turnover by D. Exum"
+},
+{
+  "_id": {
+    "$oid": "66905f9c0be1e2081d904655"
+  },
+  "event_id": 259,
+  "game_id": 1,
+  "timestamp": "2:30",
+  "team": "Boston Celtics",
+  "player_id": 9,
+  "player_name": "Luke Kornet",
+  "event": "steal",
+  "description": "Steal by L. Kornet"
+},
+{
+  "_id": {
+    "$oid": "66905f9c0be1e2081d904656"
+  },
+  "event_id": 260,
+  "game_id": 1,
+  "timestamp": "2:02",
+  "team": "Dallas Mavericks",
+  "player_id": 21,
+  "player_name": "Tim Hardaway Jr.",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by T. Hardaway"
+},
+{
+  "_id": {
+    "$oid": "669060050be1e2081d904658"
+  },
+  "event_id": 261,
+  "game_id": 1,
+  "timestamp": "1:49",
+  "team": "Boston Celtics",
+  "player_id": 8,
+  "player_name": "Payton Pritchard",
+  "event": "personal foul",
+  "description": "Personal foul by P. Pritchard"
+},
+{
+  "_id": {
+    "$oid": "669060050be1e2081d904659"
+  },
+  "event_id": 262,
+  "game_id": 1,
+  "timestamp": "1:49",
+  "team": "Dallas Mavericks",
+  "player_id": 20,
+  "player_name": "Jaden Hardy",
+  "event": "foul drawn",
+  "description": "Drawn by J. Hardy"
+},
+{
+  "_id": {
+    "$oid": "669060050be1e2081d90465a"
+  },
+  "event_id": 263,
+  "game_id": 1,
+  "timestamp": "1:49",
+  "team": "Dallas Mavericks",
+  "player_id": 20,
+  "player_name": "Jaden Hardy",
+  "event": "free throw made",
+  "description": "J. Hardy makes free throw 1 of 2"
+},
+{
+  "_id": {
+    "$oid": "669060050be1e2081d90465b"
+  },
+  "event_id": 264,
+  "game_id": 1,
+  "timestamp": "1:49",
+  "team": "Dallas Mavericks",
+  "player_id": 20,
+  "player_name": "Jaden Hardy",
+  "event": "free throw made",
+  "description": "J. Hardy makes free throw 2 of 2"
+},
+{
+  "_id": {
+    "$oid": "669060050be1e2081d90465c"
+  },
+  "event_id": 265,
+  "game_id": 1,
+  "timestamp": "1:36",
+  "team": "Dallas Mavericks",
+  "player_id": 20,
+  "player_name": "Jaden Hardy",
+  "event": "2-pt shot made",
+  "description": "J. Hardy makes 2-pt jump shot from 9 ft"
+},
+{
+  "_id": {
+    "$oid": "669060050be1e2081d90465d"
+  },
+  "event_id": 266,
+  "game_id": 1,
+  "timestamp": "1:26",
+  "team": "Dallas Mavericks",
+  "player_id": 23,
+  "player_name": "Josh Green",
+  "event": "3-pt shot made",
+  "description": "J. Green makes 3-pt jump shot from 24 ft"
+},
+{
+  "_id": {
+    "$oid": "669060050be1e2081d90465e"
+  },
+  "event_id": 267,
+  "game_id": 1,
+  "timestamp": "1:26",
+  "team": "Dallas Mavericks",
+  "player_id": 20,
+  "player_name": "Jaden Hardy",
+  "event": "assist",
+  "description": "Assist by J. Hardy"
+},
+{
+  "_id": {
+    "$oid": "669060050be1e2081d90465f"
+  },
+  "event_id": 268,
+  "game_id": 1,
+  "timestamp": "0:38",
+  "team": "Dallas Mavericks",
+  "player_id": 22,
+  "player_name": "Dante Exum",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by D. Exum"
+},
+{
+  "_id": {
+    "$oid": "669060050be1e2081d904660"
+  },
+  "event_id": 269,
+  "game_id": 1,
+  "timestamp": "0:30",
+  "team": "Dallas Mavericks",
+  "player_id": 23,
+  "player_name": "Josh Green",
+  "event": "2-pt shot missed",
+  "description": "J. Green misses 2-pt layup from 3 ft"
+},
+{
+  "_id": {
+    "$oid": "669060050be1e2081d904661"
+  },
+  "event_id": 270,
+  "game_id": 1,
+  "timestamp": "0:28",
+  "team": "Boston Celtics",
+  "player_id": 6,
+  "player_name": "Sam Hauser",
+  "event": "defensive rebound",
+  "description": "Defensive rebound by S. Hauser"
+}]

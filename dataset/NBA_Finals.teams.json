@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "66902eef1941c74a5279c561"
+  },
+  "team_id": 1,
+  "game_id": 1,
+  "team": "Boston Celtics",
+  "total_points": 107,
+  "total_rebounds": 47,
+  "total_assists": 24,
+  "total_steals": 6,
+  "total_blocks": 7,
+  "field_goal_percentage": 50,
+  "three_point_percentage": 40,
+  "free_throw_percentage": 80
+},
+{
+  "_id": {
+    "$oid": "66902eef1941c74a5279c562"
+  },
+  "team_id": 2,
+  "game_id": 1,
+  "team": "Dallas Mavericks",
+  "total_points": 89,
+  "total_rebounds": 38,
+  "total_assists": 15,
+  "total_steals": 7,
+  "total_blocks": 2,
+  "field_goal_percentage": 43,
+  "three_point_percentage": 30,
+  "free_throw_percentage": 75
+}]

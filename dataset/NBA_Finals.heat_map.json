@@ -1,0 +1,322 @@
+[{
+  "_id": 1,
+  "name": "Jayson Tatum",
+  "team": "Boston Celtics",
+  "position": "Forward",
+  "time_spent": {
+    "Left Wing": 505,
+    "Right Wing": 505,
+    "Left Corner": 252,
+    "Right Corner": 252,
+    "Paint": 758,
+    "Top": 252
+  }
+},
+{
+  "_id": 2,
+  "name": "Jaylen Brown",
+  "team": "Boston Celtics",
+  "position": "Guard",
+  "time_spent": {
+    "Left Wing": 669,
+    "Right Wing": 669,
+    "Left Corner": 111,
+    "Right Corner": 111,
+    "Paint": 223,
+    "Top": 446
+  }
+},
+{
+  "_id": 3,
+  "name": "Derrick White",
+  "team": "Boston Celtics",
+  "position": "Guard",
+  "time_spent": {
+    "Left Wing": 632,
+    "Right Wing": 632,
+    "Left Corner": 105,
+    "Right Corner": 105,
+    "Paint": 210,
+    "Top": 421
+  }
+},
+{
+  "_id": 4,
+  "name": "Jrue Holiday",
+  "team": "Boston Celtics",
+  "position": "Guard",
+  "time_spent": {
+    "Left Wing": 627,
+    "Right Wing": 627,
+    "Left Corner": 104,
+    "Right Corner": 104,
+    "Paint": 209,
+    "Top": 418
+  }
+},
+{
+  "_id": 5,
+  "name": "Al Horford",
+  "team": "Boston Celtics",
+  "position": "Center",
+  "time_spent": {
+    "Left Wing": 89,
+    "Right Wing": 89,
+    "Left Corner": 179,
+    "Right Corner": 179,
+    "Paint": 1073,
+    "Top": 179
+  }
+},
+{
+  "_id": 6,
+  "name": "Kristaps Porzingis",
+  "team": "Boston Celtics",
+  "position": "Forward",
+  "time_spent": {
+    "Left Wing": 247,
+    "Right Wing": 247,
+    "Left Corner": 123,
+    "Right Corner": 123,
+    "Paint": 370,
+    "Top": 123
+  }
+},
+{
+  "_id": 7,
+  "name": "Sam Hauser",
+  "team": "Boston Celtics",
+  "position": "Forward",
+  "time_spent": {
+    "Left Wing": 193,
+    "Right Wing": 193,
+    "Left Corner": 96,
+    "Right Corner": 96,
+    "Paint": 289,
+    "Top": 96
+  }
+},
+{
+  "_id": 8,
+  "name": "Payton Pritchard",
+  "team": "Boston Celtics",
+  "position": "Guard",
+  "time_spent": {
+    "Left Wing": 279,
+    "Right Wing": 279,
+    "Left Corner": 47,
+    "Right Corner": 47,
+    "Paint": 93,
+    "Top": 186
+  }
+},
+{
+  "_id": 9,
+  "name": "Luke Kornet",
+  "team": "Boston Celtics",
+  "position": "Center",
+  "time_spent": {
+    "Left Wing": 9,
+    "Right Wing": 9,
+    "Left Corner": 19,
+    "Right Corner": 19,
+    "Paint": 113,
+    "Top": 19
+  }
+},
+{
+  "_id": 10,
+  "name": "Svi Mykhailiuk",
+  "team": "Boston Celtics",
+  "position": "Guard",
+  "time_spent": {
+    "Left Wing": 48,
+    "Right Wing": 48,
+    "Left Corner": 8,
+    "Right Corner": 8,
+    "Paint": 16,
+    "Top": 32
+  }
+},
+{
+  "_id": 11,
+  "name": "Oshae Brissett",
+  "team": "Boston Celtics",
+  "position": "Forward",
+  "time_spent": {
+    "Left Wing": 12,
+    "Right Wing": 12,
+    "Left Corner": 6,
+    "Right Corner": 6,
+    "Paint": 18,
+    "Top": 6
+  }
+},
+{
+  "_id": 12,
+  "name": "Luka Doncic",
+  "team": "Dallas Mavericks",
+  "position": "Guard",
+  "time_spent": {
+    "Left Wing": 689,
+    "Right Wing": 689,
+    "Left Corner": 115,
+    "Right Corner": 115,
+    "Paint": 230,
+    "Top": 459
+  }
+},
+{
+  "_id": 13,
+  "name": "Kyrie Irving",
+  "team": "Dallas Mavericks",
+  "position": "Guard",
+  "time_spent": {
+    "Left Wing": 655,
+    "Right Wing": 655,
+    "Left Corner": 109,
+    "Right Corner": 109,
+    "Paint": 218,
+    "Top": 437
+  }
+},
+{
+  "_id": 14,
+  "name": "P.J. Washington Jr.",
+  "team": "Dallas Mavericks",
+  "position": "Forward",
+  "time_spent": {
+    "Left Wing": 433,
+    "Right Wing": 433,
+    "Left Corner": 217,
+    "Right Corner": 217,
+    "Paint": 650,
+    "Top": 217
+  }
+},
+{
+  "_id": 15,
+  "name": "Derrick Jones Jr.",
+  "team": "Dallas Mavericks",
+  "position": "Forward",
+  "time_spent": {
+    "Left Wing": 346,
+    "Right Wing": 346,
+    "Left Corner": 173,
+    "Right Corner": 173,
+    "Paint": 520,
+    "Top": 173
+  }
+},
+{
+  "_id": 16,
+  "name": "Daniel Gafford",
+  "team": "Dallas Mavericks",
+  "position": "Center",
+  "time_spent": {
+    "Left Wing": 42,
+    "Right Wing": 42,
+    "Left Corner": 85,
+    "Right Corner": 85,
+    "Paint": 511,
+    "Top": 85
+  }
+},
+{
+  "_id": 17,
+  "name": "Josh Green",
+  "team": "Dallas Mavericks",
+  "position": "Guard",
+  "time_spent": {
+    "Left Wing": 243,
+    "Right Wing": 243,
+    "Left Corner": 41,
+    "Right Corner": 41,
+    "Paint": 81,
+    "Top": 162
+  }
+},
+{
+  "_id": 18,
+  "name": "Maxi Kleber",
+  "team": "Dallas Mavericks",
+  "position": "Forward",
+  "time_spent": {
+    "Left Wing": 221,
+    "Right Wing": 221,
+    "Left Corner": 110,
+    "Right Corner": 110,
+    "Paint": 332,
+    "Top": 110
+  }
+},
+{
+  "_id": 19,
+  "name": "Dereck Lively II",
+  "team": "Dallas Mavericks",
+  "position": "Center",
+  "time_spent": {
+    "Left Wing": 55,
+    "Right Wing": 55,
+    "Left Corner": 111,
+    "Right Corner": 111,
+    "Paint": 666,
+    "Top": 111
+  }
+},
+{
+  "_id": 20,
+  "name": "Jaden Hardy",
+  "team": "Dallas Mavericks",
+  "position": "Guard",
+  "time_spent": {
+    "Left Wing": 193,
+    "Right Wing": 193,
+    "Left Corner": 32,
+    "Right Corner": 32,
+    "Paint": 65,
+    "Top": 129
+  }
+},
+{
+  "_id": 21,
+  "name": "Tim Hardaway Jr.",
+  "team": "Dallas Mavericks",
+  "position": "Forward",
+  "time_spent": {
+    "Left Wing": 138,
+    "Right Wing": 138,
+    "Left Corner": 69,
+    "Right Corner": 69,
+    "Paint": 207,
+    "Top": 69
+  }
+},
+{
+  "_id": 22,
+  "name": "Dante Exum",
+  "team": "Dallas Mavericks",
+  "position": "Guard",
+  "time_spent": {
+    "Left Wing": 96,
+    "Right Wing": 96,
+    "Left Corner": 16,
+    "Right Corner": 16,
+    "Paint": 32,
+    "Top": 64
+  }
+},
+{
+  "_id": 23,
+  "name": "Dwight Powell",
+  "team": "Dallas Mavericks",
+  "position": "Center",
+  "time_spent": {
+    "Left Wing": 29,
+    "Right Wing": 29,
+    "Left Corner": 58,
+    "Right Corner": 58,
+    "Paint": 349,
+    "Top": 58
+  }
+}]

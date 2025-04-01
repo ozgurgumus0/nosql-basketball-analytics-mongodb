@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "66902f311941c74a5279c565"
+  },
+  "game_id": 1,
+  "date": "2024-06-06",
+  "teams": [
+    1,
+    2
+  ],
+  "final_score": {
+    "Boston Celtics": 107,
+    "Dallas Mavericks": 89
+  },
+  "location": "TD Garden, Boston, MA"
+}]
